@@ -1,0 +1,1473 @@
+[2025-12-12 00:10:17,758.758] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 00:10:17,762.762] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 00:10:18,102.102] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 00:10:18,103.103] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 00:10:19,174.174] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: __init__
+[2025-12-12 00:10:19,176.176] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「NumberBomb」
+[2025-12-12 00:10:19,180.180] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「成语接龙」
+[2025-12-12 00:10:19,400.400] INFO     [Thread-2 (runner)|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 加载成语 30895 条
+[2025-12-12 00:10:19,401.401] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-12 00:10:19,403.403] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-12 00:10:19,404.404] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-12 00:10:19,405.405] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-12 00:10:19,409.409] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「TTLCleaner」
+[2025-12-12 00:10:19,432.432] INFO     [asyncio_0|MainProcess] NumberBomb (logger.py:info:129) | 插件 NumberBomb 加载成功
+[2025-12-12 00:10:19,433.433] INFO     [asyncio_2|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-12 00:10:19,433.433] INFO     [asyncio_4|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-12 00:10:19,435.435] INFO     [asyncio_5|MainProcess] Wallet (logger.py:info:129) | 插件 Wallet 加载成功
+[2025-12-12 00:10:19,436.436] INFO     [asyncio_3|MainProcess] SignIn (logger.py:info:129) | 插件 SignIn 加载成功
+[2025-12-12 00:10:19,436.436] INFO     [asyncio_1|MainProcess] ChengyuJielong (logger.py:info:129) | 插件 成语接龙 加载成功
+[2025-12-12 00:10:19,439.439] INFO     [asyncio_6|MainProcess] TTLCleaner (logger.py:info:129) | 插件 TTLCleaner 加载成功
+[2025-12-12 00:10:19,441.441] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [9]
+[2025-12-12 00:10:19,443.443] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-12 00:10:19,660.660] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-12 00:10:25,996.996] ERROR    [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:error:134) | 登录状态异常, 请检查远端 NapCat 服务
+[2025-12-12 00:10:25,996.996] ERROR    [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:error:134) | 对运行 NapCat 的服务器进行物理重启一般能解决该问题
+[2025-12-12 00:10:31,768.768] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 00:10:31,771.771] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 00:10:31,932.932] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 00:10:31,938.938] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 00:10:32,118.118] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: __init__
+[2025-12-12 00:10:32,118.118] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「NumberBomb」
+[2025-12-12 00:10:32,119.119] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「成语接龙」
+[2025-12-12 00:10:32,352.352] INFO     [Thread-2 (runner)|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 加载成语 30895 条
+[2025-12-12 00:10:32,353.353] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-12 00:10:32,354.354] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-12 00:10:32,355.355] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-12 00:10:32,356.356] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-12 00:10:32,357.357] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「TTLCleaner」
+[2025-12-12 00:10:32,373.373] INFO     [asyncio_0|MainProcess] NumberBomb (logger.py:info:129) | 插件 NumberBomb 加载成功
+[2025-12-12 00:10:32,375.375] INFO     [asyncio_1|MainProcess] ChengyuJielong (logger.py:info:129) | 插件 成语接龙 加载成功
+[2025-12-12 00:10:32,377.377] INFO     [asyncio_3|MainProcess] SignIn (logger.py:info:129) | 插件 SignIn 加载成功
+[2025-12-12 00:10:32,377.377] INFO     [asyncio_4|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-12 00:10:32,378.378] INFO     [asyncio_2|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-12 00:10:32,380.380] INFO     [asyncio_6|MainProcess] TTLCleaner (logger.py:info:129) | 插件 TTLCleaner 加载成功
+[2025-12-12 00:10:32,382.382] INFO     [asyncio_5|MainProcess] Wallet (logger.py:info:129) | 插件 Wallet 加载成功
+[2025-12-12 00:10:32,382.382] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [9]
+[2025-12-12 00:10:32,384.384] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-12 00:10:32,424.424] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-12 00:10:38,626.626] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-12 00:10:38,643.643] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-12 00:11:03,650.650] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-12 00:11:04,122.122] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：/成语接龙 40
+[2025-12-12 00:11:10,785.785] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：[CQ:at,qq=1286149997] 不玩了
+[2025-12-12 00:11:12,817.817] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[2795642263] 说：[CQ:at,qq=3889002639] /分数列表 14
+[2025-12-12 00:11:20,003.003] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[2795642263] 说：[CQ:at,qq=3889002639] /分数列表 13+
+[2025-12-12 00:11:22,169.169] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889002639] 说：[CQ:image,file=4bd270e3b36cf559e4a3a433c8ffc268.png,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhS2a1Nak0QgCGwikiVD_gc-mbpbfxj2kUMg_woo-cCUqva1kQMyBHByb2RQgL2jAVoQFXBjaUVquZBt0l8kb7qr93oC72SCAQJneg&amp;rkey=CAQSMKjK8x0qnqsor83hHinnXPVetaqmQ45cMl9SZCfmqAud6InxcEVq6NJkJ52iKNxzAg,file_size=1100022][CQ:at,qq=2795642263]
+[2025-12-12 00:11:23,653.653] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/成语接龙 129
+[2025-12-12 00:11:27,666.666] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[2795642263] 说：[CQ:at,qq=3889002639] /分数列表 13
+[2025-12-12 00:11:27,971.971] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：[CQ:image,summary=&#91;生气&#93;,file=f0-f0c5372e5ab34598855507d139f56f02.gif,url=https://gxh.vip.qq.com/club/item/parcel/item/f0/f0c5372e5ab34598855507d139f56f02/raw300.gif,key=9319988b21cf234e,emoji_id=f0c5372e5ab34598855507d139f56f02,emoji_package_id=237550]
+[2025-12-12 00:11:28,611.611] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：哈哈
+[2025-12-12 00:11:33,502.502] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889002639] 说：[CQ:image,file=267648f35aaba74e4f862893faf45d0d.png,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSAZ0sFqXkz5Kl2JwQBjXG27yzK3xiKunYg_wook6Krr_a1kQMyBHByb2RQgL2jAVoQK0L8LyElSPzywJsRA8VGmnoCNOSCAQJneg&amp;rkey=CAQSMKjK8x0qnqsor83hHinnXPVetaqmQ45cMl9SZCfmqAud6InxcEVq6NJkJ52iKNxzAg,file_size=1940746][CQ:at,qq=2795642263]
+[2025-12-12 00:11:38,032.032] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：[CQ:image,summary=&#91;动画表情&#93;,file=2C61F86E482439F239E37FBB91F59E5B.jpg,sub_type=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhTv0rPxOhI1QH8txvaVpAS2N1GxBxjlgSAg_wookpLbsfa1kQMyBHByb2RQgL2jAVoQmT4zPlXZV2i26_jPJoLf83oCL4yCAQJneg&amp;rkey=CAQSMKjK8x0qnqsor83hHinnXPVetaqmQ45cMl9SZCfmqAud6InxcEVq6NJkJ52iKNxzAg,file_size=524517]
+[2025-12-12 00:11:40,111.111] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889002639] 说：[CQ:image,file=1d94b2267485d196ac17191110cf9190.png,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSs1XpWg5JjfQYnXxqE3p6Uj-klQxi0n38g_woo64rRsva1kQMyBHByb2RQgL2jAVoQt_XHlBsH_B3V9CYycV8TMHoC36KCAQJneg&amp;rkey=CAQSMKjK8x0qnqsor83hHinnXPVetaqmQ45cMl9SZCfmqAud6InxcEVq6NJkJ52iKNxzAg,file_size=2084788][CQ:at,qq=2795642263]
+[2025-12-12 00:11:41,031.031] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：早有预谋
+[2025-12-12 00:11:47,161.161] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：早有准备
+[2025-12-12 00:12:20,018.018] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：/成语接龙 6.6
+[2025-12-12 00:13:01,525.525] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/成语接龙 -1
+[2025-12-12 00:13:08,386.386] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/成语接龙 -22
+[2025-12-12 00:14:41,786.786] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/成语接龙 1 × 10^0
+[2025-12-12 00:14:53,589.589] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/成语接龙 1*10^0
+[2025-12-12 00:15:17,152.152] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：666
+[2025-12-12 00:16:52,413.413] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/成语接龙 50-1
+[2025-12-12 00:17:01,617.617] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/成语接龙 49.9
+[2025-12-12 00:17:09,499.499] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/成语接龙 五
+[2025-12-12 00:17:16,601.601] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/成语接龙 A
+[2025-12-12 00:17:27,085.085] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/成语接龙 0101
+[2025-12-12 00:18:00,085.085] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：[CQ:image,summary=&#91;动画表情&#93;,file=61A79960DFD9DA65688C0B38E9D314FD.jpg,sub_type=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhRKb2P4hHyW9O1RYNDpGEFVvw8omRiugQQg_wooud_85_e1kQMyBHByb2RQgL2jAVoQnryV_qNycLl-zlXKYonFQ3oCKauCAQJneg&amp;rkey=CAQSMKjK8x0qnqsor83hHinnXPVetaqmQ45cMl9SZCfmqAud6InxcEVq6NJkJ52iKNxzAg,file_size=65710]
+[2025-12-12 00:18:05,375.375] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：不赖
+[2025-12-12 00:18:11,254.254] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/成语接龙 0005
+[2025-12-12 00:18:14,858.858] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：[CQ:image,summary=&#91;动画表情&#93;,file=521756D2A47C778366972D17A81B0EA8.jpg,sub_type=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhRLgz6wJRdSKce3vQmOYfa7cxgnAhiyoyYg_woo-LP57ve1kQMyBHByb2RQgL2jAVoQKRjEjqyWAjsXVupL2h06KnoCqdmCAQJneg&amp;rkey=CAQSMKjK8x0qnqsor83hHinnXPVetaqmQ45cMl9SZCfmqAud6InxcEVq6NJkJ52iKNxzAg,file_size=627122]
+[2025-12-12 00:18:24,958.958] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：@日日的空 不玩了
+[2025-12-12 00:18:34,219.219] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：[CQ:at,qq=1286149997] 不玩了
+[2025-12-12 00:18:37,917.917] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：你👂🏻🐉吗
+[2025-12-12 00:18:39,312.312] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：ok
+[2025-12-12 00:19:10,864.864] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/成语接龙 0001005
+[2025-12-12 00:19:25,546.546] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/成语接龙 000555
+[2025-12-12 00:19:31,863.863] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/成语接龙 000455
+[2025-12-12 00:19:36,985.985] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：[CQ:image,summary=&#91;动画表情&#93;,file=D10A7500E5DC1087531A312983A5D327.jpg,sub_type=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSU3kSkzqFkdwumamXHVbEFuunGGRiD3BQg_woo3NWIlvi1kQMyBHByb2RQgL2jAVoQqAGexxkDVKflJFLw3x2KBnoCq72CAQJneg&amp;rkey=CAQSMKjK8x0qnqsor83hHinnXPVetaqmQ45cMl9SZCfmqAud6InxcEVq6NJkJ52iKNxzAg,file_size=339459]
+[2025-12-12 00:30:34,989.989] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3192504536] 说：/成语接龙 5
+[2025-12-12 00:30:46,819.819] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3192504536] 说：悲天悯人
+[2025-12-12 00:30:46,855.855] INFO     [MainThread|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 玩家 3192504536 获得 5 金币奖励已发放到数据库
+[2025-12-12 00:30:50,917.917] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3192504536] 说：人山人海
+[2025-12-12 00:30:50,976.976] INFO     [MainThread|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 玩家 3192504536 获得 7 金币奖励已发放到数据库
+[2025-12-12 00:30:54,076.076] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3192504536] 说：海纳百川
+[2025-12-12 00:30:54,096.096] INFO     [MainThread|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 玩家 3192504536 获得 11 金币奖励已发放到数据库
+[2025-12-12 00:30:59,039.039] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3192504536] 说：川流不息
+[2025-12-12 00:30:59,077.077] INFO     [MainThread|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 玩家 3192504536 获得 16 金币奖励已发放到数据库
+[2025-12-12 00:31:12,877.877] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3192504536] 说：[CQ:image,summary=&#91;？&#93;,file=390435C282C155B75378DBFD854CDA31.jpg,sub_type=7,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSrQNTlmAHd-EFKjB1RMF8REd6-phjbHyD_CiiEvfbh-rWRAzIEcHJvZFCAvaMBWhD0V5Ms4ennKuBO48Dl6PI0egIdqoIBAmd6&amp;rkey=CAQSMKjK8x0qnqsor83hHinnXPVetaqmQ45cMl9SZCfmqAud6InxcEVq6NJkJ52iKNxzAg,file_size=4059]
+[2025-12-12 00:55:33,533.533] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：实力强大
+[2025-12-12 00:56:13,303.303] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3313722090] 说：心理委员来了  稍息！🧍 军体拳！✊✊鹤！！！ 格斗准备！✊😡👊弓步冲拳！😡🦵鹤！ 穿喉弹踢！🫴😡🦶鹤！ 马步横打！🤛😡🦵鹤！ 内搏下勾！✊😡🦵鹤！ 交错侧踹！💪😡🦵🤜鹤！ 外格横勾！🤛😡🦵鹤！ 反击勾踢！鹤！ 转身别臂！🖐😡🫲🔄鹤！ 虚步砍肋！🤲😡🦶鹤！ 弹裆顶肘！🦶鹤！反弹侧击！鹤！ 弓步靠掌！🦵鹤！上步砸肘！🦵鹤！ 仆步撩裆！🤌🫴鹤！ 挡击拌腿！呵！🫲呵！呵！击腰锁喉！鹤！
+[2025-12-12 00:56:47,830.830] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-12 00:56:47,839.839] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-12 00:56:47,840.840] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-12 00:56:47,841.841] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 NumberBomb 卸载成功
+[2025-12-12 00:56:47,842.842] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 成语接龙 卸载成功
+[2025-12-12 00:56:47,843.843] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-12 00:56:47,843.843] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SignIn 卸载成功
+[2025-12-12 00:56:47,844.844] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Alive 卸载成功
+[2025-12-12 00:56:47,844.844] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Wallet 卸载成功
+[2025-12-12 00:56:49,836.836] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 00:56:49,839.839] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 00:56:50,078.078] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 00:56:50,079.079] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 00:56:50,403.403] ERROR    [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:error:134) | 导入模块 interaction 时出错: 命令 '今日运势' 注册失败: 命令名称 '今日运势' 已存在
+[2025-12-12 00:58:24,297.297] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 00:58:24,300.300] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 00:58:24,462.462] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 00:58:24,463.463] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 00:58:24,646.646] ERROR    [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:error:134) | 导入模块 interaction 时出错: 命令 '今日运势' 注册失败: 命令名称 '今日运势' 已存在
+[2025-12-12 01:04:46,232.232] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 01:04:46,237.237] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 01:04:46,428.428] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 01:04:46,428.428] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 01:04:46,639.639] ERROR    [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:error:134) | 导入模块 interaction 时出错: 命令 '今日运势' 注册失败: 命令名称 '今日运势' 已存在
+[2025-12-12 01:10:40,445.445] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 01:10:40,450.450] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 01:10:40,714.714] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 01:10:40,714.714] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 01:10:41,049.049] ERROR    [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:error:134) | 导入模块 interaction 时出错: 命令 '今日运势' 注册失败: 命令名称 '今日运势' 已存在
+[2025-12-12 01:10:44,342.342] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 01:10:44,344.344] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 01:10:44,531.531] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 01:10:44,532.532] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 01:10:44,726.726] ERROR    [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:error:134) | 导入模块 interaction 时出错: 命令 '今日运势' 注册失败: 命令名称 '今日运势' 已存在
+[2025-12-12 01:11:26,312.312] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 01:11:26,316.316] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 01:11:26,490.490] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 01:11:26,490.490] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 01:11:26,684.684] ERROR    [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:error:134) | 导入模块 interaction 时出错: 命令 '今日运势' 注册失败: 命令名称 '今日运势' 已存在
+[2025-12-12 01:13:18,908.908] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 01:13:18,911.911] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 01:13:19,093.093] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 01:13:19,093.093] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 01:13:19,289.289] ERROR    [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:error:134) | 导入模块 interaction 时出错: 命令 '每日运势' 注册失败: 命令名称 '每日运势' 已存在
+[2025-12-12 01:16:28,766.766] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 01:16:28,769.769] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 01:16:28,943.943] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 01:16:28,944.944] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 01:16:29,119.119] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: __init__
+[2025-12-12 01:16:29,120.120] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「NumberBomb」
+[2025-12-12 01:16:29,121.121] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「成语接龙」
+[2025-12-12 01:16:29,398.398] INFO     [Thread-2 (runner)|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 加载成语 30895 条
+[2025-12-12 01:16:29,398.398] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-12 01:16:29,400.400] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-12 01:16:29,401.401] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-12 01:16:29,401.401] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-12 01:16:29,402.402] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「TTLCleaner」
+[2025-12-12 01:16:29,419.419] INFO     [asyncio_1|MainProcess] ChengyuJielong (logger.py:info:129) | 插件 成语接龙 加载成功
+[2025-12-12 01:16:29,422.422] INFO     [asyncio_2|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-12 01:16:29,422.422] INFO     [asyncio_0|MainProcess] NumberBomb (logger.py:info:129) | 插件 NumberBomb 加载成功
+[2025-12-12 01:16:29,424.424] INFO     [asyncio_3|MainProcess] SignIn (logger.py:info:129) | 插件 SignIn 加载成功
+[2025-12-12 01:16:29,426.426] INFO     [asyncio_4|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-12 01:16:29,426.426] INFO     [asyncio_5|MainProcess] Wallet (logger.py:info:129) | 插件 Wallet 加载成功
+[2025-12-12 01:16:29,428.428] INFO     [asyncio_6|MainProcess] TTLCleaner (logger.py:info:129) | 插件 TTLCleaner 加载成功
+[2025-12-12 01:16:29,430.430] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [9]
+[2025-12-12 01:16:29,432.432] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-12 01:16:29,520.520] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-12 01:16:35,810.810] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-12 01:16:35,811.811] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-12 01:16:57,612.612] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-12 01:16:57,926.926] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：/hello
+[2025-12-12 01:17:02,742.742] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：/今日运势
+[2025-12-12 01:17:19,164.164] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2958912553] 说：谁叫你抽白了
+[2025-12-12 01:17:24,884.884] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2958912553] 说：都说了白是路边
+[2025-12-12 01:17:32,622.622] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2958912553] 说：最多就记忆主和鸭
+[2025-12-12 01:17:38,242.242] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2958912553] 说：加个昔涟
+[2025-12-12 01:22:26,645.645] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3313722090] 说：本来叠大就折磨
+[2025-12-12 01:22:34,955.955] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3313722090] 说：你还要加多一个更折磨的
+[2025-12-12 01:22:45,369.369] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3313722090] 说：[CQ:image,summary=&#91;动画表情&#93;,file=F6F9B801219F9EE355B41E2362B661E2.png,sub_type=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhTuDtwsvCnSImGYh4wiBAuJNszUpRiM7gMg_woonu6kpIa2kQMyBHByb2RQgL2jAVoQB-YlZICrvz8Q8vQV_Mki_HoCavGCAQJneg&amp;rkey=CAISMJNcaXiR_Mh7WgNxX1COOAlr3JYrqgpppNs4oNeo7wBGg9yM7ZHtc3VwEAW1wbIk6A,file_size=63244]
+[2025-12-12 01:27:17,063.063] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-12 01:27:17,067.067] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-12 01:27:17,068.068] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-12 01:27:17,068.068] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 NumberBomb 卸载成功
+[2025-12-12 01:27:17,069.069] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 成语接龙 卸载成功
+[2025-12-12 01:27:17,070.070] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-12 01:27:17,070.070] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SignIn 卸载成功
+[2025-12-12 01:27:17,071.071] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Alive 卸载成功
+[2025-12-12 01:27:17,071.071] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Wallet 卸载成功
+[2025-12-12 01:27:17,072.072] ERROR    [MainThread|MainProcess] BasePlugin (logger.py:error:134) | 插件 TTLCleaner 卸载错误：<class 'RuntimeError'>: Event loop is closed
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\adapter\adapter.py", line 97, in connect_websocket
+    message = await self.client.recv()
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\connection.py", line 303, in recv
+    return await self.recv_messages.get(decode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 159, in get
+    frame = await self.frames.get(not self.closed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 51, in get
+    await self.get_waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 320, in run_frontend
+    self.start(**kwargs)
+    ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 395, in start
+    asyncio.run(self.adapter.connect_websocket())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\plugin_system\base_plugin.py", line 181, in __unload__
+    await self.on_close(*a, **kw)
+  File "D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py", line 33, in on_close
+    self.task.cancel()                   # 优雅停任务
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 833, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 556, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+[2025-12-12 01:27:17,101.101] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-12 01:27:17,133.133] ERROR    [MainThread|MainProcess] asyncio (base_events.py:default_exception_handler:1871) | Task was destroyed but it is pending!
+task: <Task cancelling name='Task-19' coro=<TTLCleanerPlugin._loop() running at D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py:26> wait_for=<Future cancelled>>
+[2025-12-12 01:27:23,945.945] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 01:27:23,949.949] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 01:27:24,115.115] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 01:27:24,115.115] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 01:27:24,292.292] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: __init__
+[2025-12-12 01:27:24,293.293] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「NumberBomb」
+[2025-12-12 01:27:24,293.293] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「成语接龙」
+[2025-12-12 01:27:24,493.493] INFO     [Thread-2 (runner)|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 加载成语 30895 条
+[2025-12-12 01:27:24,494.494] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-12 01:27:24,494.494] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-12 01:27:24,495.495] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「FortunePlugin」
+[2025-12-12 01:27:24,496.496] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-12 01:27:24,497.497] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-12 01:27:24,497.497] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「TTLCleaner」
+[2025-12-12 01:27:24,514.514] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin v1.0.0 加载成功
+[2025-12-12 01:27:24,515.515] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 今日运势插件已就绪！
+[2025-12-12 01:27:24,519.519] INFO     [asyncio_0|MainProcess] NumberBomb (logger.py:info:129) | 插件 NumberBomb 加载成功
+[2025-12-12 01:27:24,520.520] INFO     [asyncio_3|MainProcess] SignIn (logger.py:info:129) | 插件 SignIn 加载成功
+[2025-12-12 01:27:24,523.523] INFO     [asyncio_2|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-12 01:27:24,524.524] INFO     [asyncio_1|MainProcess] ChengyuJielong (logger.py:info:129) | 插件 成语接龙 加载成功
+[2025-12-12 01:27:24,525.525] INFO     [asyncio_7|MainProcess] TTLCleaner (logger.py:info:129) | 插件 TTLCleaner 加载成功
+[2025-12-12 01:27:24,526.526] INFO     [asyncio_5|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-12 01:27:24,526.526] INFO     [asyncio_6|MainProcess] Wallet (logger.py:info:129) | 插件 Wallet 加载成功
+[2025-12-12 01:27:24,528.528] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [10]
+[2025-12-12 01:27:24,531.531] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-12 01:27:24,571.571] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-12 01:27:30,811.811] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-12 01:27:30,812.812] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-12 01:27:37,498.498] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-12 01:27:37,540.540] INFO     [MainThread|MainProcess] FortunePlugin (logger.py:info:129) | 用户 2739879393 生成新运势: 📅 2025年12月12日 运势
+[2025-12-12 01:27:37,915.915] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：/运势
+[2025-12-12 01:27:40,413.413] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：运势
+[2025-12-12 01:27:44,939.939] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：/运势
+[2025-12-12 01:28:03,516.516] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：/运势
+[2025-12-12 01:44:01,625.625] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3313722090] 说：[CQ:at,qq=2739879393]
+[2025-12-12 01:44:03,031.031] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3313722090] 说：[CQ:image,summary=&#91;动画表情&#93;,file=1ECD0774C917EAD3434B43124E0792B9.png,sub_type=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhRSqiNA8HGoNdvzLZZzwoXRHei5lhiC9Acg_woo187BhYu2kQMyBHByb2RQgL2jAVoQTf_a2jWkzb3GgPfGDgkomXoCPhOCAQJneg&amp;rkey=CAISMJNcaXiR_Mh7WgNxX1COOAlr3JYrqgpppNs4oNeo7wBGg9yM7ZHtc3VwEAW1wbIk6A,file_size=129538]
+[2025-12-12 01:51:08,855.855] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2958912553] 说：[CQ:reply,id=1069946498][CQ:at,qq=3313722090] 有什么办法，带盾丹输出少一半
+[2025-12-12 01:58:05,468.468] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-12 01:58:05,474.474] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-12 01:58:05,475.475] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-12 01:58:05,475.475] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 NumberBomb 卸载成功
+[2025-12-12 01:58:05,476.476] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 成语接龙 卸载成功
+[2025-12-12 01:58:05,476.476] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-12 01:58:05,477.477] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SignIn 卸载成功
+[2025-12-12 01:58:05,477.477] INFO     [MainThread|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin 卸载成功
+[2025-12-12 01:58:05,477.477] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Alive 卸载成功
+[2025-12-12 01:58:05,479.479] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Wallet 卸载成功
+[2025-12-12 01:58:05,480.480] ERROR    [MainThread|MainProcess] BasePlugin (logger.py:error:134) | 插件 TTLCleaner 卸载错误：<class 'RuntimeError'>: Event loop is closed
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\adapter\adapter.py", line 97, in connect_websocket
+    message = await self.client.recv()
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\connection.py", line 303, in recv
+    return await self.recv_messages.get(decode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 159, in get
+    frame = await self.frames.get(not self.closed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 51, in get
+    await self.get_waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 320, in run_frontend
+    self.start(**kwargs)
+    ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 395, in start
+    asyncio.run(self.adapter.connect_websocket())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\plugin_system\base_plugin.py", line 181, in __unload__
+    await self.on_close(*a, **kw)
+  File "D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py", line 33, in on_close
+    self.task.cancel()                   # 优雅停任务
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 833, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 556, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+[2025-12-12 01:58:07,278.278] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 01:58:07,281.281] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 01:58:07,521.521] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 01:58:07,522.522] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 01:58:07,784.784] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: __init__
+[2025-12-12 01:58:07,785.785] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「NumberBomb」
+[2025-12-12 01:58:07,786.786] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「成语接龙」
+[2025-12-12 01:58:08,013.013] INFO     [Thread-2 (runner)|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 加载成语 30895 条
+[2025-12-12 01:58:08,013.013] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-12 01:58:08,014.014] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-12 01:58:08,015.015] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「FortunePlugin」
+[2025-12-12 01:58:08,015.015] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-12 01:58:08,016.016] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-12 01:58:08,017.017] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「TTLCleaner」
+[2025-12-12 01:58:08,040.040] INFO     [asyncio_0|MainProcess] NumberBomb (logger.py:info:129) | 插件 NumberBomb 加载成功
+[2025-12-12 01:58:08,042.042] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin v1.0.0 加载成功
+[2025-12-12 01:58:08,042.042] INFO     [asyncio_1|MainProcess] ChengyuJielong (logger.py:info:129) | 插件 成语接龙 加载成功
+[2025-12-12 01:58:08,043.043] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 今日运势插件已就绪！
+[2025-12-12 01:58:08,043.043] INFO     [asyncio_5|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-12 01:58:08,043.043] INFO     [asyncio_2|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-12 01:58:08,044.044] INFO     [asyncio_3|MainProcess] SignIn (logger.py:info:129) | 插件 SignIn 加载成功
+[2025-12-12 01:58:08,045.045] INFO     [asyncio_7|MainProcess] TTLCleaner (logger.py:info:129) | 插件 TTLCleaner 加载成功
+[2025-12-12 01:58:08,048.048] INFO     [asyncio_6|MainProcess] Wallet (logger.py:info:129) | 插件 Wallet 加载成功
+[2025-12-12 01:58:29,347.347] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 01:58:29,350.350] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 01:58:29,544.544] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 01:58:29,544.544] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 01:58:29,747.747] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: __init__
+[2025-12-12 01:58:29,748.748] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「NumberBomb」
+[2025-12-12 01:58:29,749.749] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「成语接龙」
+[2025-12-12 01:58:29,934.934] INFO     [Thread-2 (runner)|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 加载成语 30895 条
+[2025-12-12 01:58:29,935.935] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-12 01:58:29,935.935] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-12 01:58:29,937.937] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「FortunePlugin」
+[2025-12-12 01:58:29,938.938] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-12 01:58:29,938.938] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-12 01:58:29,939.939] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「TTLCleaner」
+[2025-12-12 01:58:29,959.959] INFO     [asyncio_0|MainProcess] NumberBomb (logger.py:info:129) | 插件 NumberBomb 加载成功
+[2025-12-12 01:58:29,961.961] INFO     [asyncio_3|MainProcess] SignIn (logger.py:info:129) | 插件 SignIn 加载成功
+[2025-12-12 01:58:29,962.962] INFO     [asyncio_2|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-12 01:58:29,963.963] INFO     [asyncio_5|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-12 01:58:29,964.964] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin v1.0.0 加载成功
+[2025-12-12 01:58:29,964.964] INFO     [asyncio_6|MainProcess] Wallet (logger.py:info:129) | 插件 Wallet 加载成功
+[2025-12-12 01:58:29,965.965] INFO     [asyncio_1|MainProcess] ChengyuJielong (logger.py:info:129) | 插件 成语接龙 加载成功
+[2025-12-12 01:58:29,965.965] INFO     [asyncio_7|MainProcess] TTLCleaner (logger.py:info:129) | 插件 TTLCleaner 加载成功
+[2025-12-12 01:58:29,966.966] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 今日运势插件已就绪！
+[2025-12-12 01:58:29,970.970] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [10]
+[2025-12-12 01:58:29,973.973] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-12 01:58:30,026.026] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-12 01:58:36,262.262] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-12 01:58:36,263.263] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-12 01:58:49,150.150] ERROR    [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:error:134) | 执行函数 handle_poke 时发生错误: InteractionPlugin.handle_poke() missing 1 required positional argument: 'event'
+[2025-12-12 01:58:49,151.151] ERROR    [MainThread|MainProcess] Interaction (logger.py:error:134) | 发送回复失败: 'PokeNoticeEvent' object has no attribute 'reply'
+[2025-12-12 02:02:48,176.176] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-12 02:02:48,181.181] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-12 02:02:48,182.182] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-12 02:02:48,183.183] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 NumberBomb 卸载成功
+[2025-12-12 02:02:48,183.183] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 成语接龙 卸载成功
+[2025-12-12 02:02:48,185.185] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-12 02:02:48,185.185] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SignIn 卸载成功
+[2025-12-12 02:02:48,185.185] INFO     [MainThread|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin 卸载成功
+[2025-12-12 02:02:48,186.186] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Alive 卸载成功
+[2025-12-12 02:02:48,187.187] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Wallet 卸载成功
+[2025-12-12 02:02:48,188.188] ERROR    [MainThread|MainProcess] BasePlugin (logger.py:error:134) | 插件 TTLCleaner 卸载错误：<class 'RuntimeError'>: Event loop is closed
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\adapter\adapter.py", line 97, in connect_websocket
+    message = await self.client.recv()
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\connection.py", line 303, in recv
+    return await self.recv_messages.get(decode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 159, in get
+    frame = await self.frames.get(not self.closed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 51, in get
+    await self.get_waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 320, in run_frontend
+    self.start(**kwargs)
+    ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 395, in start
+    asyncio.run(self.adapter.connect_websocket())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\plugin_system\base_plugin.py", line 181, in __unload__
+    await self.on_close(*a, **kw)
+  File "D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py", line 33, in on_close
+    self.task.cancel()                   # 优雅停任务
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 833, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 556, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+[2025-12-12 02:02:48,217.217] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-12 02:02:48,248.248] ERROR    [MainThread|MainProcess] asyncio (base_events.py:default_exception_handler:1871) | Task was destroyed but it is pending!
+task: <Task cancelling name='Task-21' coro=<TTLCleanerPlugin._loop() running at D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py:26> wait_for=<Future cancelled>>
+[2025-12-12 02:02:49,181.181] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 02:02:49,184.184] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 02:02:49,344.344] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 02:02:49,345.345] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 02:02:49,523.523] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: __init__
+[2025-12-12 02:02:49,524.524] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「NumberBomb」
+[2025-12-12 02:02:49,524.524] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「成语接龙」
+[2025-12-12 02:02:49,728.728] INFO     [Thread-2 (runner)|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 加载成语 30895 条
+[2025-12-12 02:02:49,729.729] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-12 02:02:49,730.730] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-12 02:02:49,730.730] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「FortunePlugin」
+[2025-12-12 02:02:49,731.731] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-12 02:02:49,731.731] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-12 02:02:49,732.732] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「TTLCleaner」
+[2025-12-12 02:02:49,754.754] INFO     [asyncio_0|MainProcess] NumberBomb (logger.py:info:129) | 插件 NumberBomb 加载成功
+[2025-12-12 02:02:49,756.756] INFO     [asyncio_1|MainProcess] ChengyuJielong (logger.py:info:129) | 插件 成语接龙 加载成功
+[2025-12-12 02:02:49,757.757] INFO     [asyncio_2|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-12 02:02:49,758.758] INFO     [asyncio_3|MainProcess] SignIn (logger.py:info:129) | 插件 SignIn 加载成功
+[2025-12-12 02:02:49,759.759] INFO     [asyncio_5|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-12 02:02:49,760.760] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin v1.0.0 加载成功
+[2025-12-12 02:02:49,761.761] INFO     [asyncio_6|MainProcess] Wallet (logger.py:info:129) | 插件 Wallet 加载成功
+[2025-12-12 02:02:49,762.762] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 今日运势插件已就绪！
+[2025-12-12 02:02:49,762.762] INFO     [asyncio_7|MainProcess] TTLCleaner (logger.py:info:129) | 插件 TTLCleaner 加载成功
+[2025-12-12 02:02:49,765.765] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [10]
+[2025-12-12 02:02:49,767.767] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-12 02:02:49,809.809] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-12 02:02:56,018.018] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-12 02:02:56,019.019] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-12 02:03:01,453.453] ERROR    [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:error:134) | 执行函数 handle_poke 时发生错误: InteractionPlugin.handle_poke() missing 1 required positional argument: 'event'
+[2025-12-12 02:03:01,453.453] ERROR    [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:error:134) | 执行函数 handle_poke 时发生错误: 'PokeNoticeEvent' object has no attribute 'data'
+[2025-12-12 02:13:25,372.372] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-12 02:13:25,376.376] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-12 02:13:25,377.377] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-12 02:13:25,378.378] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 NumberBomb 卸载成功
+[2025-12-12 02:13:25,379.379] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 成语接龙 卸载成功
+[2025-12-12 02:13:25,380.380] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-12 02:13:25,381.381] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SignIn 卸载成功
+[2025-12-12 02:13:25,381.381] INFO     [MainThread|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin 卸载成功
+[2025-12-12 02:13:25,381.381] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Alive 卸载成功
+[2025-12-12 02:13:25,382.382] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Wallet 卸载成功
+[2025-12-12 02:13:25,382.382] ERROR    [MainThread|MainProcess] BasePlugin (logger.py:error:134) | 插件 TTLCleaner 卸载错误：<class 'RuntimeError'>: Event loop is closed
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\adapter\adapter.py", line 97, in connect_websocket
+    message = await self.client.recv()
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\connection.py", line 303, in recv
+    return await self.recv_messages.get(decode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 159, in get
+    frame = await self.frames.get(not self.closed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 51, in get
+    await self.get_waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 320, in run_frontend
+    self.start(**kwargs)
+    ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 395, in start
+    asyncio.run(self.adapter.connect_websocket())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\plugin_system\base_plugin.py", line 181, in __unload__
+    await self.on_close(*a, **kw)
+  File "D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py", line 33, in on_close
+    self.task.cancel()                   # 优雅停任务
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 833, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 556, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+[2025-12-12 02:13:25,443.443] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-12 02:13:25,471.471] ERROR    [MainThread|MainProcess] asyncio (base_events.py:default_exception_handler:1871) | Task was destroyed but it is pending!
+task: <Task cancelling name='Task-21' coro=<TTLCleanerPlugin._loop() running at D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py:26> wait_for=<Future cancelled>>
+[2025-12-12 02:13:26,438.438] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 02:13:26,442.442] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 02:13:26,629.629] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 02:13:26,630.630] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 02:13:26,809.809] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: __init__
+[2025-12-12 02:13:26,810.810] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「NumberBomb」
+[2025-12-12 02:13:26,810.810] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「成语接龙」
+[2025-12-12 02:13:27,016.016] INFO     [Thread-2 (runner)|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 加载成语 30895 条
+[2025-12-12 02:13:27,016.016] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-12 02:13:27,018.018] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-12 02:13:27,019.019] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「FortunePlugin」
+[2025-12-12 02:13:27,020.020] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-12 02:13:27,020.020] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-12 02:13:27,021.021] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「TTLCleaner」
+[2025-12-12 02:13:27,042.042] INFO     [asyncio_1|MainProcess] ChengyuJielong (logger.py:info:129) | 插件 成语接龙 加载成功
+[2025-12-12 02:13:27,043.043] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin v1.0.0 加载成功
+[2025-12-12 02:13:27,044.044] INFO     [asyncio_0|MainProcess] NumberBomb (logger.py:info:129) | 插件 NumberBomb 加载成功
+[2025-12-12 02:13:27,045.045] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 今日运势插件已就绪！
+[2025-12-12 02:13:27,045.045] INFO     [asyncio_5|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-12 02:13:27,046.046] INFO     [asyncio_3|MainProcess] SignIn (logger.py:info:129) | 插件 SignIn 加载成功
+[2025-12-12 02:13:27,047.047] INFO     [asyncio_6|MainProcess] Wallet (logger.py:info:129) | 插件 Wallet 加载成功
+[2025-12-12 02:13:27,048.048] INFO     [asyncio_2|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-12 02:13:27,051.051] INFO     [asyncio_7|MainProcess] TTLCleaner (logger.py:info:129) | 插件 TTLCleaner 加载成功
+[2025-12-12 02:13:27,052.052] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [10]
+[2025-12-12 02:13:27,055.055] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-12 02:13:27,099.099] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-12 02:13:33,373.373] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-12 02:13:33,374.374] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-12 02:13:54,528.528] ERROR    [MainThread|MainProcess] EventBus (logger.py:error:134) | 执行处理程序 handle_poke 时发生错误: 'str' object is not callable
+[2025-12-12 02:13:54,531.531] ERROR    [MainThread|MainProcess] EventBus (logger.py:error:134) | 处理器 handle_poke (ID: 62759862-2132-4df9-8650-6a69ba171450) 错误: 'str' object is not callable
+[2025-12-12 02:13:54,531.531] ERROR    [MainThread|MainProcess] EventBus (logger.py:error:134) | 事件处理异常: 'str' object is not callable
+[2025-12-12 02:14:17,133.133] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-12 02:14:17,134.134] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：PokeNoticeEvent(group_id=163620041, user_id=2739879393, target_id=1286149997, notice_type=notify, sub_type=poke, raw_info=&#91;{'col': '1', 'nm': '', 'type': 'qq', 'uid': 'u_lw8UzYHtrjbZaCg1ZULQLA'}, {'jp': 'https://zb.vip.qq.com/v2/pages/nudgeMall?_wv=2&amp;actionId=0', 'src': 'http://tianquan.gtimg.cn/nudgeaction/item/0/expression.jpg', 'type': 'img'}, {'txt': '戳了戳', 'type': 'nor'}, {'col': '1', 'nm': '', 'tp': '0', 'type': 'qq', 'uid': 'u_yRfO_-gt10uMrMQu8nn-YA'}, {'txt': '', 'type': 'nor'}&#93;)
+[2025-12-12 02:16:41,218.218] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-12 02:16:41,223.223] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-12 02:16:41,224.224] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-12 02:16:41,225.225] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 NumberBomb 卸载成功
+[2025-12-12 02:16:41,225.225] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 成语接龙 卸载成功
+[2025-12-12 02:16:41,226.226] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-12 02:16:41,227.227] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SignIn 卸载成功
+[2025-12-12 02:16:41,227.227] INFO     [MainThread|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin 卸载成功
+[2025-12-12 02:16:41,227.227] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Alive 卸载成功
+[2025-12-12 02:16:41,228.228] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Wallet 卸载成功
+[2025-12-12 02:16:41,240.240] ERROR    [MainThread|MainProcess] BasePlugin (logger.py:error:134) | 插件 TTLCleaner 卸载错误：<class 'RuntimeError'>: Event loop is closed
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\adapter\adapter.py", line 97, in connect_websocket
+    message = await self.client.recv()
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\connection.py", line 303, in recv
+    return await self.recv_messages.get(decode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 159, in get
+    frame = await self.frames.get(not self.closed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 51, in get
+    await self.get_waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 320, in run_frontend
+    self.start(**kwargs)
+    ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 395, in start
+    asyncio.run(self.adapter.connect_websocket())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\plugin_system\base_plugin.py", line 181, in __unload__
+    await self.on_close(*a, **kw)
+  File "D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py", line 33, in on_close
+    self.task.cancel()                   # 优雅停任务
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 833, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 556, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+[2025-12-12 02:16:41,270.270] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-12 02:16:41,298.298] ERROR    [MainThread|MainProcess] asyncio (base_events.py:default_exception_handler:1871) | Task was destroyed but it is pending!
+task: <Task cancelling name='Task-21' coro=<TTLCleanerPlugin._loop() running at D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py:26> wait_for=<Future cancelled>>
+[2025-12-12 02:16:42,358.358] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 02:16:42,361.361] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 02:16:42,559.559] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 02:16:42,560.560] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 02:16:42,780.780] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: __init__
+[2025-12-12 02:16:42,781.781] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「NumberBomb」
+[2025-12-12 02:16:42,782.782] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「成语接龙」
+[2025-12-12 02:16:43,064.064] INFO     [Thread-2 (runner)|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 加载成语 30895 条
+[2025-12-12 02:16:43,065.065] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-12 02:16:43,067.067] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-12 02:16:43,068.068] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「FortunePlugin」
+[2025-12-12 02:16:43,069.069] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-12 02:16:43,070.070] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-12 02:16:43,071.071] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「TTLCleaner」
+[2025-12-12 02:16:43,092.092] INFO     [asyncio_0|MainProcess] NumberBomb (logger.py:info:129) | 插件 NumberBomb 加载成功
+[2025-12-12 02:16:43,093.093] INFO     [asyncio_3|MainProcess] SignIn (logger.py:info:129) | 插件 SignIn 加载成功
+[2025-12-12 02:16:43,095.095] INFO     [asyncio_1|MainProcess] ChengyuJielong (logger.py:info:129) | 插件 成语接龙 加载成功
+[2025-12-12 02:16:43,095.095] INFO     [asyncio_2|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-12 02:16:43,097.097] INFO     [asyncio_7|MainProcess] TTLCleaner (logger.py:info:129) | 插件 TTLCleaner 加载成功
+[2025-12-12 02:16:43,099.099] INFO     [asyncio_6|MainProcess] Wallet (logger.py:info:129) | 插件 Wallet 加载成功
+[2025-12-12 02:16:43,099.099] INFO     [asyncio_5|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-12 02:16:43,100.100] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin v1.0.0 加载成功
+[2025-12-12 02:16:43,101.101] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 今日运势插件已就绪！
+[2025-12-12 02:16:43,103.103] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [10]
+[2025-12-12 02:16:43,106.106] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-12 02:16:43,158.158] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-12 02:16:49,425.425] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-12 02:16:49,425.425] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-12 02:17:04,708.708] ERROR    [MainThread|MainProcess] EventBus (logger.py:error:134) | 执行处理程序 handle_poke 时发生错误: 'str' object is not callable
+[2025-12-12 02:17:04,710.710] ERROR    [MainThread|MainProcess] EventBus (logger.py:error:134) | 处理器 handle_poke (ID: 875ac7d8-3e2f-4e9f-adde-b87139f521da) 错误: 'str' object is not callable
+[2025-12-12 02:17:04,711.711] ERROR    [MainThread|MainProcess] EventBus (logger.py:error:134) | 事件处理异常: 'str' object is not callable
+[2025-12-12 02:18:07,664.664] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-12 02:18:07,669.669] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-12 02:18:07,670.670] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-12 02:18:07,671.671] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 NumberBomb 卸载成功
+[2025-12-12 02:18:07,671.671] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 成语接龙 卸载成功
+[2025-12-12 02:18:07,671.671] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-12 02:18:07,672.672] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SignIn 卸载成功
+[2025-12-12 02:18:07,672.672] INFO     [MainThread|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin 卸载成功
+[2025-12-12 02:18:07,673.673] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Alive 卸载成功
+[2025-12-12 02:18:07,673.673] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Wallet 卸载成功
+[2025-12-12 02:18:07,673.673] ERROR    [MainThread|MainProcess] BasePlugin (logger.py:error:134) | 插件 TTLCleaner 卸载错误：<class 'RuntimeError'>: Event loop is closed
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\adapter\adapter.py", line 97, in connect_websocket
+    message = await self.client.recv()
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\connection.py", line 303, in recv
+    return await self.recv_messages.get(decode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 159, in get
+    frame = await self.frames.get(not self.closed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 51, in get
+    await self.get_waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 320, in run_frontend
+    self.start(**kwargs)
+    ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 395, in start
+    asyncio.run(self.adapter.connect_websocket())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\plugin_system\base_plugin.py", line 181, in __unload__
+    await self.on_close(*a, **kw)
+  File "D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py", line 33, in on_close
+    self.task.cancel()                   # 优雅停任务
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 833, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 556, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+[2025-12-12 02:18:07,707.707] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-12 02:18:07,736.736] ERROR    [MainThread|MainProcess] asyncio (base_events.py:default_exception_handler:1871) | Task was destroyed but it is pending!
+task: <Task cancelling name='Task-21' coro=<TTLCleanerPlugin._loop() running at D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py:26> wait_for=<Future cancelled>>
+[2025-12-12 02:18:08,688.688] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 02:18:08,691.691] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 02:18:08,862.862] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 02:18:08,863.863] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 02:18:09,050.050] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: __init__
+[2025-12-12 02:18:09,051.051] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「NumberBomb」
+[2025-12-12 02:18:09,052.052] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「成语接龙」
+[2025-12-12 02:18:09,260.260] INFO     [Thread-2 (runner)|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 加载成语 30895 条
+[2025-12-12 02:18:09,261.261] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-12 02:18:09,262.262] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-12 02:18:09,263.263] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「FortunePlugin」
+[2025-12-12 02:18:09,264.264] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-12 02:18:09,265.265] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-12 02:18:09,266.266] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「TTLCleaner」
+[2025-12-12 02:18:09,286.286] INFO     [asyncio_0|MainProcess] NumberBomb (logger.py:info:129) | 插件 NumberBomb 加载成功
+[2025-12-12 02:18:09,289.289] INFO     [asyncio_1|MainProcess] ChengyuJielong (logger.py:info:129) | 插件 成语接龙 加载成功
+[2025-12-12 02:18:09,290.290] INFO     [asyncio_2|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-12 02:18:09,291.291] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin v1.0.0 加载成功
+[2025-12-12 02:18:09,292.292] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 今日运势插件已就绪！
+[2025-12-12 02:18:09,293.293] INFO     [asyncio_3|MainProcess] SignIn (logger.py:info:129) | 插件 SignIn 加载成功
+[2025-12-12 02:18:09,293.293] INFO     [asyncio_5|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-12 02:18:09,295.295] INFO     [asyncio_6|MainProcess] Wallet (logger.py:info:129) | 插件 Wallet 加载成功
+[2025-12-12 02:18:09,296.296] INFO     [asyncio_7|MainProcess] TTLCleaner (logger.py:info:129) | 插件 TTLCleaner 加载成功
+[2025-12-12 02:18:09,297.297] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [10]
+[2025-12-12 02:18:09,300.300] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-12 02:18:09,334.334] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-12 02:18:15,570.570] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-12 02:18:15,571.571] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-12 02:25:37,948.948] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-12 02:25:37,952.952] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-12 02:25:37,953.953] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-12 02:25:37,954.954] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 NumberBomb 卸载成功
+[2025-12-12 02:25:37,954.954] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 成语接龙 卸载成功
+[2025-12-12 02:25:37,955.955] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-12 02:25:37,955.955] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SignIn 卸载成功
+[2025-12-12 02:25:37,955.955] INFO     [MainThread|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin 卸载成功
+[2025-12-12 02:25:37,956.956] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Alive 卸载成功
+[2025-12-12 02:25:37,956.956] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Wallet 卸载成功
+[2025-12-12 02:25:37,956.956] ERROR    [MainThread|MainProcess] BasePlugin (logger.py:error:134) | 插件 TTLCleaner 卸载错误：<class 'RuntimeError'>: Event loop is closed
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\adapter\adapter.py", line 97, in connect_websocket
+    message = await self.client.recv()
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\connection.py", line 303, in recv
+    return await self.recv_messages.get(decode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 159, in get
+    frame = await self.frames.get(not self.closed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 51, in get
+    await self.get_waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 320, in run_frontend
+    self.start(**kwargs)
+    ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 395, in start
+    asyncio.run(self.adapter.connect_websocket())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\plugin_system\base_plugin.py", line 181, in __unload__
+    await self.on_close(*a, **kw)
+  File "D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py", line 33, in on_close
+    self.task.cancel()                   # 优雅停任务
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 833, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 556, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+[2025-12-12 02:25:37,984.984] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-12 02:25:38,015.015] ERROR    [MainThread|MainProcess] asyncio (base_events.py:default_exception_handler:1871) | Task was destroyed but it is pending!
+task: <Task cancelling name='Task-21' coro=<TTLCleanerPlugin._loop() running at D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py:26> wait_for=<Future cancelled>>
+[2025-12-12 02:25:39,043.043] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 02:25:39,045.045] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 02:25:39,225.225] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 02:25:39,225.225] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 02:25:39,433.433] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: __init__
+[2025-12-12 02:25:39,433.433] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「NumberBomb」
+[2025-12-12 02:25:39,434.434] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「成语接龙」
+[2025-12-12 02:25:39,635.635] INFO     [Thread-2 (runner)|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 加载成语 30895 条
+[2025-12-12 02:25:39,635.635] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-12 02:25:39,636.636] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-12 02:25:39,637.637] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「FortunePlugin」
+[2025-12-12 02:25:39,637.637] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-12 02:25:39,638.638] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-12 02:25:39,638.638] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「TTLCleaner」
+[2025-12-12 02:25:39,656.656] INFO     [asyncio_1|MainProcess] ChengyuJielong (logger.py:info:129) | 插件 成语接龙 加载成功
+[2025-12-12 02:25:39,658.658] INFO     [asyncio_3|MainProcess] SignIn (logger.py:info:129) | 插件 SignIn 加载成功
+[2025-12-12 02:25:39,658.658] INFO     [asyncio_2|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-12 02:25:39,659.659] INFO     [asyncio_0|MainProcess] NumberBomb (logger.py:info:129) | 插件 NumberBomb 加载成功
+[2025-12-12 02:25:39,660.660] INFO     [asyncio_6|MainProcess] Wallet (logger.py:info:129) | 插件 Wallet 加载成功
+[2025-12-12 02:25:39,661.661] INFO     [asyncio_5|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-12 02:25:39,662.662] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin v1.0.0 加载成功
+[2025-12-12 02:25:39,663.663] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 今日运势插件已就绪！
+[2025-12-12 02:25:39,663.663] INFO     [asyncio_7|MainProcess] TTLCleaner (logger.py:info:129) | 插件 TTLCleaner 加载成功
+[2025-12-12 02:25:39,665.665] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [10]
+[2025-12-12 02:25:39,668.668] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-12 02:25:39,705.705] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-12 02:25:45,926.926] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-12 02:25:45,927.927] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-12 02:25:49,090.090] ERROR    [MainThread|MainProcess] EventBus (logger.py:error:134) | 执行处理程序 handle_poke 时发生错误: 'NcatBotEvent' object has no attribute 'target_id'
+[2025-12-12 02:25:49,095.095] ERROR    [MainThread|MainProcess] EventBus (logger.py:error:134) | 处理器 handle_poke (ID: cce39b4d-9fd5-4e34-95ee-d79655542492) 错误: 'NcatBotEvent' object has no attribute 'target_id'
+[2025-12-12 02:25:49,096.096] ERROR    [MainThread|MainProcess] EventBus (logger.py:error:134) | 事件处理异常: 'NcatBotEvent' object has no attribute 'target_id'
+[2025-12-12 02:25:58,244.244] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-12 02:25:58,245.245] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1306852254] 说：[CQ:at,qq=3889002639] /b50
+[2025-12-12 02:26:05,263.263] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889002639] 说：[CQ:image,file=e29f64213945e93a1b0190dbb73eabfa.png,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhQGlmzGK3CIDnQCIYyNrdHlMxNMmRig1HMg_woortT5t5S2kQMyBHByb2RQgL2jAVoQQ5pbCPHHm-_ughIlVFKGL3oC07OCAQJneg&amp;rkey=CAQSME16bPKU4V3BsZBtYceVKznbFYllod5mJqcPft9DEFD11JdiwOu2qRlJmT4alSbORQ,file_size=1894944][CQ:at,qq=1306852254]
+[2025-12-12 02:27:00,841.841] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-12 02:27:00,845.845] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-12 02:27:00,845.845] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-12 02:27:00,846.846] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 NumberBomb 卸载成功
+[2025-12-12 02:27:00,846.846] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 成语接龙 卸载成功
+[2025-12-12 02:27:00,847.847] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-12 02:27:00,848.848] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SignIn 卸载成功
+[2025-12-12 02:27:00,850.850] INFO     [MainThread|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin 卸载成功
+[2025-12-12 02:27:00,850.850] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Alive 卸载成功
+[2025-12-12 02:27:00,852.852] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Wallet 卸载成功
+[2025-12-12 02:27:00,853.853] ERROR    [MainThread|MainProcess] BasePlugin (logger.py:error:134) | 插件 TTLCleaner 卸载错误：<class 'RuntimeError'>: Event loop is closed
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\adapter\adapter.py", line 97, in connect_websocket
+    message = await self.client.recv()
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\connection.py", line 303, in recv
+    return await self.recv_messages.get(decode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 159, in get
+    frame = await self.frames.get(not self.closed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 51, in get
+    await self.get_waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 320, in run_frontend
+    self.start(**kwargs)
+    ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 395, in start
+    asyncio.run(self.adapter.connect_websocket())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\plugin_system\base_plugin.py", line 181, in __unload__
+    await self.on_close(*a, **kw)
+  File "D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py", line 33, in on_close
+    self.task.cancel()                   # 优雅停任务
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 833, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 556, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+[2025-12-12 02:27:00,880.880] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-12 02:27:00,907.907] ERROR    [MainThread|MainProcess] asyncio (base_events.py:default_exception_handler:1871) | Task was destroyed but it is pending!
+task: <Task cancelling name='Task-21' coro=<TTLCleanerPlugin._loop() running at D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py:26> wait_for=<Future cancelled>>
+[2025-12-12 02:27:01,895.895] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 02:27:01,898.898] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 02:27:02,047.047] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 02:27:02,047.047] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 02:27:02,217.217] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: __init__
+[2025-12-12 02:27:02,218.218] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「NumberBomb」
+[2025-12-12 02:27:02,220.220] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「成语接龙」
+[2025-12-12 02:27:02,442.442] INFO     [Thread-2 (runner)|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 加载成语 30895 条
+[2025-12-12 02:27:02,443.443] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-12 02:27:02,444.444] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-12 02:27:02,445.445] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「FortunePlugin」
+[2025-12-12 02:27:02,445.445] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-12 02:27:02,446.446] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-12 02:27:02,447.447] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「TTLCleaner」
+[2025-12-12 02:27:02,467.467] INFO     [asyncio_0|MainProcess] NumberBomb (logger.py:info:129) | 插件 NumberBomb 加载成功
+[2025-12-12 02:27:02,468.468] INFO     [asyncio_1|MainProcess] ChengyuJielong (logger.py:info:129) | 插件 成语接龙 加载成功
+[2025-12-12 02:27:02,471.471] INFO     [asyncio_2|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-12 02:27:02,472.472] INFO     [asyncio_5|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-12 02:27:02,473.473] INFO     [asyncio_3|MainProcess] SignIn (logger.py:info:129) | 插件 SignIn 加载成功
+[2025-12-12 02:27:02,474.474] INFO     [asyncio_6|MainProcess] Wallet (logger.py:info:129) | 插件 Wallet 加载成功
+[2025-12-12 02:27:02,474.474] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin v1.0.0 加载成功
+[2025-12-12 02:27:02,475.475] INFO     [asyncio_7|MainProcess] TTLCleaner (logger.py:info:129) | 插件 TTLCleaner 加载成功
+[2025-12-12 02:27:02,476.476] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 今日运势插件已就绪！
+[2025-12-12 02:27:02,477.477] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [10]
+[2025-12-12 02:27:02,481.481] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-12 02:27:02,530.530] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-12 02:27:08,770.770] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-12 02:27:08,771.771] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-12 02:27:24,357.357] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 用户 2739879393 戳了机器人，回复: 戳一下，开心一整天~...
+[2025-12-12 02:27:36,600.600] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-12 02:27:36,601.601] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：有点明白要怎么写了
+[2025-12-12 02:27:39,672.672] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 用户 2739879393 戳了机器人，回复: 戳一下，开心一整天~...
+[2025-12-12 02:27:51,055.055] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：但为什么是同一条
+[2025-12-12 02:28:18,132.132] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 用户 2739879393 戳了机器人，回复: Stop poking me! Meow...
+[2025-12-12 02:28:29,969.969] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 用户 2739879393 戳了机器人，回复: 再戳我就掉毛啦！...
+[2025-12-12 02:35:06,505.505] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-12 02:35:06,510.510] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-12 02:35:06,511.511] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-12 02:35:06,511.511] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 NumberBomb 卸载成功
+[2025-12-12 02:35:06,512.512] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 成语接龙 卸载成功
+[2025-12-12 02:35:06,513.513] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-12 02:35:06,513.513] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SignIn 卸载成功
+[2025-12-12 02:35:06,513.513] INFO     [MainThread|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin 卸载成功
+[2025-12-12 02:35:06,514.514] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Alive 卸载成功
+[2025-12-12 02:35:06,515.515] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Wallet 卸载成功
+[2025-12-12 02:35:06,516.516] ERROR    [MainThread|MainProcess] BasePlugin (logger.py:error:134) | 插件 TTLCleaner 卸载错误：<class 'RuntimeError'>: Event loop is closed
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\adapter\adapter.py", line 97, in connect_websocket
+    message = await self.client.recv()
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\connection.py", line 303, in recv
+    return await self.recv_messages.get(decode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 159, in get
+    frame = await self.frames.get(not self.closed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 51, in get
+    await self.get_waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 320, in run_frontend
+    self.start(**kwargs)
+    ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 395, in start
+    asyncio.run(self.adapter.connect_websocket())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\plugin_system\base_plugin.py", line 181, in __unload__
+    await self.on_close(*a, **kw)
+  File "D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py", line 33, in on_close
+    self.task.cancel()                   # 优雅停任务
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 833, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 556, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+[2025-12-12 02:35:06,548.548] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-12 02:35:06,575.575] ERROR    [MainThread|MainProcess] asyncio (base_events.py:default_exception_handler:1871) | Task was destroyed but it is pending!
+task: <Task cancelling name='Task-21' coro=<TTLCleanerPlugin._loop() running at D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py:26> wait_for=<Future cancelled>>
+[2025-12-12 02:35:07,562.562] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 02:35:07,564.564] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 02:35:07,745.745] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 02:35:07,746.746] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 02:35:07,941.941] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: __init__
+[2025-12-12 02:35:07,942.942] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「NumberBomb」
+[2025-12-12 02:35:07,943.943] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「成语接龙」
+[2025-12-12 02:35:08,146.146] INFO     [Thread-2 (runner)|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 加载成语 30895 条
+[2025-12-12 02:35:08,147.147] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-12 02:35:08,148.148] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-12 02:35:08,149.149] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「FortunePlugin」
+[2025-12-12 02:35:08,150.150] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-12 02:35:08,151.151] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-12 02:35:08,152.152] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「TTLCleaner」
+[2025-12-12 02:35:08,171.171] INFO     [asyncio_0|MainProcess] NumberBomb (logger.py:info:129) | 插件 NumberBomb 加载成功
+[2025-12-12 02:35:08,172.172] INFO     [asyncio_3|MainProcess] SignIn (logger.py:info:129) | 插件 SignIn 加载成功
+[2025-12-12 02:35:08,172.172] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin v1.0.0 加载成功
+[2025-12-12 02:35:08,173.173] INFO     [asyncio_1|MainProcess] ChengyuJielong (logger.py:info:129) | 插件 成语接龙 加载成功
+[2025-12-12 02:35:08,174.174] INFO     [asyncio_2|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-12 02:35:08,175.175] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 今日运势插件已就绪！
+[2025-12-12 02:35:08,175.175] INFO     [asyncio_5|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-12 02:35:08,175.175] INFO     [asyncio_6|MainProcess] Wallet (logger.py:info:129) | 插件 Wallet 加载成功
+[2025-12-12 02:35:08,176.176] INFO     [asyncio_7|MainProcess] TTLCleaner (logger.py:info:129) | 插件 TTLCleaner 加载成功
+[2025-12-12 02:35:08,179.179] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [10]
+[2025-12-12 02:35:08,182.182] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-12 02:35:08,233.233] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-12 02:35:14,469.469] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-12 02:35:14,469.469] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-12 02:35:19,369.369] ERROR    [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:error:134) | 执行函数 handle_poke 时发生错误: InteractionPlugin.handle_poke() missing 1 required positional argument: 'event'
+[2025-12-12 02:35:19,370.370] ERROR    [MainThread|MainProcess] Interaction (logger.py:error:134) | 发送回复失败: 'PokeNoticeEvent' object has no attribute 'reply'
+[2025-12-12 02:37:43,208.208] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-12 02:37:43,212.212] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-12 02:37:43,213.213] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-12 02:37:43,214.214] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 NumberBomb 卸载成功
+[2025-12-12 02:37:43,214.214] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 成语接龙 卸载成功
+[2025-12-12 02:37:43,215.215] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-12 02:37:43,216.216] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SignIn 卸载成功
+[2025-12-12 02:37:43,216.216] INFO     [MainThread|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin 卸载成功
+[2025-12-12 02:37:43,217.217] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Alive 卸载成功
+[2025-12-12 02:37:43,217.217] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Wallet 卸载成功
+[2025-12-12 02:37:43,218.218] ERROR    [MainThread|MainProcess] BasePlugin (logger.py:error:134) | 插件 TTLCleaner 卸载错误：<class 'RuntimeError'>: Event loop is closed
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\adapter\adapter.py", line 97, in connect_websocket
+    message = await self.client.recv()
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\connection.py", line 303, in recv
+    return await self.recv_messages.get(decode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 159, in get
+    frame = await self.frames.get(not self.closed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 51, in get
+    await self.get_waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 320, in run_frontend
+    self.start(**kwargs)
+    ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 395, in start
+    asyncio.run(self.adapter.connect_websocket())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\plugin_system\base_plugin.py", line 181, in __unload__
+    await self.on_close(*a, **kw)
+  File "D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py", line 33, in on_close
+    self.task.cancel()                   # 优雅停任务
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 833, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 556, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+[2025-12-12 02:37:43,246.246] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-12 02:37:43,284.284] ERROR    [MainThread|MainProcess] asyncio (base_events.py:default_exception_handler:1871) | Task was destroyed but it is pending!
+task: <Task cancelling name='Task-21' coro=<TTLCleanerPlugin._loop() running at D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py:26> wait_for=<Future cancelled>>
+[2025-12-12 02:37:44,268.268] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 02:37:44,271.271] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 02:37:44,449.449] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 02:37:44,449.449] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 02:37:44,634.634] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: __init__
+[2025-12-12 02:37:44,635.635] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「NumberBomb」
+[2025-12-12 02:37:44,636.636] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「成语接龙」
+[2025-12-12 02:37:44,867.867] INFO     [Thread-2 (runner)|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 加载成语 30895 条
+[2025-12-12 02:37:44,868.868] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-12 02:37:44,869.869] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-12 02:37:44,870.870] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「FortunePlugin」
+[2025-12-12 02:37:44,870.870] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-12 02:37:44,871.871] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-12 02:37:44,872.872] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「TTLCleaner」
+[2025-12-12 02:37:44,897.897] INFO     [asyncio_1|MainProcess] ChengyuJielong (logger.py:info:129) | 插件 成语接龙 加载成功
+[2025-12-12 02:37:44,898.898] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin v1.0.0 加载成功
+[2025-12-12 02:37:44,900.900] INFO     [asyncio_2|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-12 02:37:44,900.900] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 今日运势插件已就绪！
+[2025-12-12 02:37:44,900.900] INFO     [asyncio_0|MainProcess] NumberBomb (logger.py:info:129) | 插件 NumberBomb 加载成功
+[2025-12-12 02:37:44,901.901] INFO     [asyncio_5|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-12 02:37:44,901.901] INFO     [asyncio_7|MainProcess] TTLCleaner (logger.py:info:129) | 插件 TTLCleaner 加载成功
+[2025-12-12 02:37:44,902.902] INFO     [asyncio_3|MainProcess] SignIn (logger.py:info:129) | 插件 SignIn 加载成功
+[2025-12-12 02:37:44,903.903] INFO     [asyncio_6|MainProcess] Wallet (logger.py:info:129) | 插件 Wallet 加载成功
+[2025-12-12 02:37:44,907.907] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [10]
+[2025-12-12 02:37:44,910.910] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-12 02:37:44,952.952] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-12 02:37:51,183.183] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-12 02:37:51,183.183] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-12 02:38:00,253.253] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 用户 2739879393 戳了机器人，回复: 戳一下，开心一整天~...
+[2025-12-12 02:38:09,589.589] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-12 02:38:09,590.590] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：傻福
+[2025-12-12 02:38:11,044.044] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：傻福
+[2025-12-12 02:38:11,049.049] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 群 163620041 检测到连续相同消息，开始复读: 傻福
+[2025-12-12 02:38:11,372.372] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 群 163620041 复读成功: 傻福
+[2025-12-12 02:38:14,608.608] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：。。
+[2025-12-12 02:38:15,853.853] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：。。
+[2025-12-12 02:38:15,860.860] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 群 163620041 检测到连续相同消息，开始复读: 。。
+[2025-12-12 02:38:16,322.322] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 群 163620041 复读成功: 。。
+[2025-12-12 02:42:58,225.225] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：还好
+[2025-12-12 02:42:59,539.539] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：还好
+[2025-12-12 02:42:59,544.544] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 群 318083168 检测到连续相同消息，开始复读: 还好
+[2025-12-12 02:42:59,868.868] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 群 318083168 复读成功: 还好
+[2025-12-12 02:43:03,294.294] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：还好
+[2025-12-12 02:43:05,268.268] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：还好
+[2025-12-12 02:43:05,272.272] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 群 318083168 检测到连续相同消息，开始复读: 还好
+[2025-12-12 02:43:05,684.684] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 群 318083168 复读成功: 还好
+[2025-12-12 02:45:41,483.483] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-12 02:45:41,488.488] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-12 02:45:41,489.489] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-12 02:45:41,490.490] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 NumberBomb 卸载成功
+[2025-12-12 02:45:41,491.491] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 成语接龙 卸载成功
+[2025-12-12 02:45:41,491.491] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-12 02:45:41,492.492] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SignIn 卸载成功
+[2025-12-12 02:45:41,492.492] INFO     [MainThread|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin 卸载成功
+[2025-12-12 02:45:41,493.493] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Alive 卸载成功
+[2025-12-12 02:45:41,494.494] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Wallet 卸载成功
+[2025-12-12 02:45:41,494.494] ERROR    [MainThread|MainProcess] BasePlugin (logger.py:error:134) | 插件 TTLCleaner 卸载错误：<class 'RuntimeError'>: Event loop is closed
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\adapter\adapter.py", line 97, in connect_websocket
+    message = await self.client.recv()
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\connection.py", line 303, in recv
+    return await self.recv_messages.get(decode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 159, in get
+    frame = await self.frames.get(not self.closed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 51, in get
+    await self.get_waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 320, in run_frontend
+    self.start(**kwargs)
+    ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 395, in start
+    asyncio.run(self.adapter.connect_websocket())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\plugin_system\base_plugin.py", line 181, in __unload__
+    await self.on_close(*a, **kw)
+  File "D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py", line 33, in on_close
+    self.task.cancel()                   # 优雅停任务
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 833, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 556, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+[2025-12-12 02:45:41,523.523] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-12 02:45:41,550.550] ERROR    [MainThread|MainProcess] asyncio (base_events.py:default_exception_handler:1871) | Task was destroyed but it is pending!
+task: <Task cancelling name='Task-21' coro=<TTLCleanerPlugin._loop() running at D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py:26> wait_for=<Future cancelled>>
+[2025-12-12 02:45:42,530.530] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-12 02:45:42,533.533] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-12 02:45:42,734.734] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-12 02:45:42,735.735] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-12 02:45:42,909.909] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: __init__
+[2025-12-12 02:45:42,910.910] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「NumberBomb」
+[2025-12-12 02:45:42,911.911] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「成语接龙」
+[2025-12-12 02:45:43,114.114] INFO     [Thread-2 (runner)|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 加载成语 30895 条
+[2025-12-12 02:45:43,115.115] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-12 02:45:43,116.116] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-12 02:45:43,117.117] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「FortunePlugin」
+[2025-12-12 02:45:43,118.118] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-12 02:45:43,119.119] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-12 02:45:43,119.119] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「TTLCleaner」
+[2025-12-12 02:45:43,141.141] INFO     [asyncio_3|MainProcess] SignIn (logger.py:info:129) | 插件 SignIn 加载成功
+[2025-12-12 02:45:43,143.143] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin v1.0.0 加载成功
+[2025-12-12 02:45:43,143.143] INFO     [asyncio_1|MainProcess] ChengyuJielong (logger.py:info:129) | 插件 成语接龙 加载成功
+[2025-12-12 02:45:43,144.144] INFO     [asyncio_5|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-12 02:45:43,145.145] INFO     [asyncio_2|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-12 02:45:43,145.145] INFO     [asyncio_7|MainProcess] TTLCleaner (logger.py:info:129) | 插件 TTLCleaner 加载成功
+[2025-12-12 02:45:43,146.146] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 今日运势插件已就绪！
+[2025-12-12 02:45:43,148.148] INFO     [asyncio_6|MainProcess] Wallet (logger.py:info:129) | 插件 Wallet 加载成功
+[2025-12-12 02:45:43,150.150] INFO     [asyncio_0|MainProcess] NumberBomb (logger.py:info:129) | 插件 NumberBomb 加载成功
+[2025-12-12 02:45:43,153.153] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [10]
+[2025-12-12 02:45:43,156.156] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-12 02:45:43,200.200] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-12 02:45:49,425.425] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-12 02:45:49,426.426] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-12 02:45:58,135.135] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-12 02:45:58,136.136] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：即将
+[2025-12-12 02:45:59,500.500] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：即将
+[2025-12-12 02:45:59,506.506] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 群 318083168 检测到连续相同消息，开始复读: 即将
+[2025-12-12 02:45:59,807.807] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 群 318083168 复读成功: 即将
+[2025-12-12 02:46:02,015.015] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：即将
+[2025-12-12 02:46:03,290.290] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：即将
+[2025-12-12 02:46:04,252.252] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：即将
+[2025-12-12 02:46:04,716.716] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：即将
+[2025-12-12 02:46:07,860.860] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：是吧
+[2025-12-12 02:46:08,998.998] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：是吧
+[2025-12-12 02:46:09,004.004] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 群 318083168 检测到连续相同消息，开始复读: 是吧
+[2025-12-12 02:46:09,355.355] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 群 318083168 复读成功: 是吧
+[2025-12-12 02:46:10,585.585] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：是吧
+[2025-12-12 02:46:11,932.932] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：是吧
+[2025-12-12 02:46:14,494.494] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：是吧
+[2025-12-12 02:46:21,526.526] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：傻福
+[2025-12-12 02:46:22,955.955] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：傻福
+[2025-12-12 02:46:22,959.959] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 群 163620041 检测到连续相同消息，开始复读: 傻福
+[2025-12-12 02:46:23,290.290] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 群 163620041 复读成功: 傻福
+[2025-12-12 02:46:27,281.281] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：傻福
+[2025-12-12 02:46:29,228.228] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：傻福
+[2025-12-12 02:46:31,490.490] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：傻福
+[2025-12-12 02:46:32,245.245] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：傻福
+[2025-12-12 02:46:33,114.114] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：傻福
+[2025-12-12 02:46:34,483.483] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：ok
+[2025-12-12 02:56:57,636.636] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1306852254] 说：[CQ:at,qq=3889002639] /分数列表 13
+[2025-12-12 02:57:07,778.778] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889002639] 说：[CQ:image,file=54e3b769fbd4a6264353844cb208825a.png,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhS9Y_88YoYBzYdF2AZNFFIL_eCT4hjQ5n8g_woo-52DsJu2kQMyBHByb2RQgL2jAVoQ53aBF7Tax4jfMlg5wOIA-3oCzgWCAQJneg&amp;rkey=CAQSME16bPKU4V3BsZBtYceVKznbFYllod5mJqcPft9DEFD11JdiwOu2qRlJmT4alSbORQ,file_size=2093904][CQ:at,qq=1306852254]
+[2025-12-12 02:59:36,170.170] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1306852254] 说：[CQ:at,qq=3889002639] /b50
+[2025-12-12 02:59:43,610.610] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889002639] 说：[CQ:image,file=8e74d2c01445e43dc04af00587a0fc82.png,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhT7eAFjPXyd0b5ITPFy5PCNOLuMWhif7HIg_wooyNmo-pu2kQMyBHByb2RQgL2jAVoQuGg4icTZ1Q8wOfS-3jJ9GHoCHaeCAQJneg&amp;rkey=CAQSME16bPKU4V3BsZBtYceVKznbFYllod5mJqcPft9DEFD11JdiwOu2qRlJmT4alSbORQ,file_size=1881631][CQ:at,qq=1306852254]
+[2025-12-12 04:11:15,623.623] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2958912553] 说：你在训练你妈呢
+[2025-12-12 07:51:47,139.139] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 用户 1473729816 戳了机器人，回复: 嘿嘿，被发现了！...
+[2025-12-12 08:10:31,903.903] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 用户 3228615468 戳了机器人，回复: 你戳到我痒痒肉啦！...
+[2025-12-12 08:10:58,400.400] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：可以戳到福吗
+[2025-12-12 08:12:48,169.169] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[1600774119] 说：[CQ:at,qq=2739879393]
+[2025-12-12 08:12:52,657.657] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[1600774119] 说：傻福
+[2025-12-12 08:15:35,823.823] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 用户 1473729816 戳了机器人，回复: 哎呀，不要戳脸脸！...
+[2025-12-12 08:15:44,627.627] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[1473729816] 说：[CQ:at,qq=1286149997] 人
+[2025-12-12 09:18:58,445.445] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 用户 3228615468 戳了机器人，回复: 再戳我就掉毛啦！...
+[2025-12-12 09:19:11,331.331] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：哇！还有掉毛！
+[2025-12-12 09:38:17,490.490] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3313722090] 说：[CQ:image,file=E9D0C3DB3180E501F3022E2E7671DEF2.png,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhRlEviGapc0BXKQM14W7jO81NPkKBjn_Qgg_woorJ6Jg_W2kQMyBHByb2RQgL2jAVoQ4wWxyXCzSlRbwcSRzfKidHoCT8aCAQJneg&amp;rkey=CAQSMNQPoaNVQMU1rex714oE_n2sTcxZsfXeB8zr8lXMeQQM9LcMSOyIMQQXtcVv-6T7cg,file_size=147175]
+[2025-12-12 09:38:21,815.815] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 用户 3313722090 戳了机器人，回复: 喵~别戳我啦！...
+[2025-12-12 09:41:24,521.521] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 用户 1473729816 戳了机器人，回复: Stop poking me! Meow...
+[2025-12-12 09:41:36,221.221] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[1473729816] 说：[CQ:at,qq=1286149997] 你是男的女的
+[2025-12-12 09:41:48,890.890] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[1473729816] 说：[CQ:at,qq=1286149997] 你是变性人吗
+[2025-12-12 11:10:18,629.629] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[1473729816] 说：[CQ:image,file=7010F42653CEFD9516547BD1EDCB782D.png,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhRu6ba3mPHRqXyqdN0_0MNSh9vjQxi7pB8g_woowae7zIm3kQMyBHByb2RQgL2jAVoQ4QaHx2QyR0H1yWjVHyqVBXoCX5uCAQJneg&amp;rkey=CAESMIHGFo8wAei2v6KpzZUT461vhcVini2sadeOYFxd8udB_vEnFpQe6M2KBIB_1PKeDg,file_size=512571]
+[2025-12-12 11:10:25,776.776] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[1473729816] 说：我去，共和时代！
+[2025-12-12 11:47:33,309.309] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3192504536] 说：[CQ:image,file=4D62C02796AD574911525A666A7620D7.jpg,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhT2FYv-kOtHLwogMcqscBazh18EKRjmwg8g_wookpyE9pG3kQMyBHByb2RQgL2jAVoQBOcw_jHXRF-nZggw03J7snoC2JqCAQJneg&amp;rkey=CAESMIHGFo8wAei2v6KpzZUT461vhcVini2sadeOYFxd8udB_vEnFpQe6M2KBIB_1PKeDg,file_size=254310]
+[2025-12-12 12:21:35,584.584] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3313722090] 说：[CQ:image,file=CFB7ECFDF36DD4F379E583ED4ACC161C.png,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhQm11-dqGQSXrMu1odr5i39t6NF3BjNLiD_CijlkeXDmbeRAzIEcHJvZFCAvaMBWhCAK0vQ10z-CgX2qTx17cWyegKnAYIBAmd6&amp;rkey=CAESMKIVHvH7OtX9AICkb4aFOPzn0nIDxJUc38WysRurIo-Jg9YvwY7pE-Dr7ElnekyL6w,file_size=5965]
+[2025-12-12 12:25:03,817.817] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3313722090] 说：[CQ:at,qq=2958912553]
+[2025-12-12 12:27:33,161.161] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3313722090] 说：[CQ:image,file=5EC37D8773727955D0509308C828E281.png,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhRN0yEPLMckuWgjACnJGsMG1krofRiNhSMg_woo8sW_7Zq3kQMyBHByb2RQgL2jAVoQZWOJfnxvG9bXiv_DOpMzW3oCdoyCAQJneg&amp;rkey=CAESMKIVHvH7OtX9AICkb4aFOPzn0nIDxJUc38WysRurIo-Jg9YvwY7pE-Dr7ElnekyL6w,file_size=574093]
+[2025-12-12 12:27:36,691.691] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3313722090] 说：惊天4条区
+[2025-12-12 13:14:17,350.350] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3192504536] 说：[CQ:image,file=52296F1CC9CAA7E5AAE3E4F59CD72294.jpg,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSYZGrwN_ByHOJs2G6xazuWxcIuLRj2nAYg_woo_bmnp6W3kQMyBHByb2RQgL2jAVoQG4pHG0B2_DiYuMbTfYfSuXoC4DeCAQJneg&amp;rkey=CAESMKIVHvH7OtX9AICkb4aFOPzn0nIDxJUc38WysRurIo-Jg9YvwY7pE-Dr7ElnekyL6w,file_size=102006]
+[2025-12-12 17:05:37,836.836] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[822309159] 用户[2739879393] 说：[CQ:at,qq=3889002639] /minfo
+[2025-12-12 17:05:39,301.301] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[822309159] 用户[3889002639] 说：[CQ:at,qq=2739879393] 请输入曲目id或曲名
+[2025-12-12 17:05:41,529.529] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[822309159] 用户[2739879393] 说：[CQ:at,qq=3889002639] /b50
+[2025-12-12 17:05:48,099.099] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[822309159] 用户[3889002639] 说：[CQ:image,file=c4d0b6422e4e0fa67ea5621ff2ef50a6.png,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhRsKh8goygcO3o-XX_OckSkQ3rUOhj53nYg_woowY-Qhtm3kQMyBHByb2RQgL2jAVoQxxePUwXgA1j46gjy6Sy-r3oC9CmCAQJneg&amp;rkey=CAISMHWuyFj2DSncXPQTm0pS8aL2mJijCCTALDN7k9vIVtIQBsi-16IBWWK4rcVvbMqQQA,file_size=1945465][CQ:at,qq=2739879393]
+[2025-12-12 18:18:07,379.379] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2958912553] 说：农
+[2025-12-12 18:18:08,937.937] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2958912553] 说：有无
+[2025-12-12 18:18:10,562.562] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2958912553] 说：有无
+[2025-12-12 18:18:10,567.567] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 群 163620041 检测到连续相同消息，开始复读: 有无
+[2025-12-12 18:18:11,015.015] INFO     [MainThread|MainProcess] Interaction (logger.py:info:129) | 群 163620041 复读成功: 有无
+[2025-12-12 18:18:28,208.208] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2958912553] 说：快点
+[2025-12-12 18:31:15,998.998] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2958912553] 说：[CQ:at,qq=3192504536] 来
+[2025-12-12 18:31:17,732.732] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2958912553] 说：龙
+[2025-12-12 18:31:46,916.916] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3192504536] 说：上号
+[2025-12-12 18:58:16,244.244] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[2186403614] 说：[CQ:at,qq=3889002639] /minfo 海晶灯
+[2025-12-12 18:58:28,463.463] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889002639] 说：[CQ:image,file=d3bfe670561ee87f140d4ece97c45c53.png,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhQHff5NFWeqaXHJyenamf1YgGJgUhi-pDsg_wooqt-unfK3kQMyBHByb2RQgL2jAVoQ4IInt7oT6P_Xh9DupdZAyXoCWy6CAQJneg&amp;rkey=CAMSMFK_iGU1tMDUTch9aXEFzpLkHu-jfGcBROSVQvkAZs3n7wlgZReBI4wtoQUksEtWrw,file_size=971326][CQ:at,qq=2186403614]
+[2025-12-12 19:30:30,797.797] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：年度最佳黑丝:
+DASS-092 美谷朱里
+magnet:?xt=urn:btih:6A784758D7A45C865403A550FD1A14B8FABE7A14
+
+年度最佳FC2：
+magnet:?xt=urn:btih:0FB8D9E027F1907B351ECBCDA3EB196F5C0EECA3
+
+年度最佳女秘书:ADN-396白峰三力
+magnet:?xt=urn:btih:EA3F034A9AEED524AB039311F61EF72AA4FB2395
+
+年度最佳巨一:SSIS-469小宵二人
+magnet:?xt=urn:btih:C8DA66E4B8B765CAE53BDF34AFD74BADCFC13A63
+
+年度最佳NTR:JUL-953木下凛久子
+magnet:?xt=urn:btih:6F0D63792E27CC2136D8D051D7B9DF9B4E577A9C
+
+年度最佳空姐:SSIS-437 星宮一花
+magnet:?xt=urn:btih:99F93DAA6D5C87A7976BD9E8193F1BCF3CB69A0D
+
+年度最佳丈母娘:JUQ-048三浦步美
+magnet:?xt=urn:btih:2618A09FA5115D3C5ABDABF69FB5F55CBE8C77A1
+
+年度最佳女上司:JUFE-384蜜美杏
+magnet:?xt=urn:btih:F58706E2F1CD5CC96AB2246E634507D6BF298B0C
+
+年度最佳女护士:MIAA-662白桃花
+magnet:?xt=urn:btih:CC57E2353D8B225191271A8FF25A1BF37F988919
+
+年度最佳女佣人:SSIS-522東雲子
+magnet:?xt=urn:btih:478F84DE7686FA91C1A619A20700659FFD2AA2EC
+
+年度最佳纯爱:PRED-388山岸逢花
+magnet:?xt=urn:btih:6AFE9B62CB7A6EB0820F168C29CECBD07077AED5
+
+年度最佳少妇:STARS-676本庄鈴
+magnet:?xt=urn:btih:DBAA3A2594EACEA11E75473E1019FDC66FD2B3B4
+
+年度最佳姐姐:TYSF-026小花の人
+magnet:?xt=urn:btih:FCD878C1F8DA71F8B1CD56235D22E7075847C921
+
+年度最佳妹妹:MIDV-041 石川零
+magnet:?xt=urn:btih:507B23E648A1D27CF1977DC2455DD93CE5D40903
+
+年度最佳继母:JUL-854三浦步美
+magnet:?xt=urn:btih:F33029191841176320134EF1D0B4FAA8A6382DDA
+
+年度最佳女教师:IPX-867
+magnet:?xt=urn:btih:18B8BA6E0AD3EC4FEC9E3B87B53E99773CD4C8A1
+
+年度最佳女高中生:STARS-590
+magnet:?xt=urn:btih:D2419EBD1A07374D567675FCBE47D499FDD56697
+
+年度最佳角色扮演:IPX-813桃乃木龙
+magnet:?xt=urn:btih:0BD7DED2FBC991BC5100069FE8B63E25DDD75225
+
+年度最佳前女友:FSDSS-483小野夕
+magnet:?xt=urn:btih:A00BAA8EE43A001C96FC9D4667DCE74A61CB4506
+
+年度最佳肉便器:IPX-939相沪多
+magnet:?xt=urn:btih:355AF1FC6D69275C9703C3479431268213A2BDA1
+
+年度最佳人妻:NNPJ-500森沪太
+magnet:?xt=urn:btih:40775E7902415B75CDCEB9B13B2688527D6A3477
+
+年度最佳老板娘:YMDD-257望月
+magnet:?xt=urn:btih:896D66AC9A4D43878604E7DD31A895DE80016A1C
+
+年度最佳搜查官:SAME-013白峰三少
+magnet:?xt=urn:btih:974D5F722E7DD2D1F1D39E4F3E3D3EA4C2B5BB8B
+
+年度最佳肥臂:MIAA-612田中权权
+magnet:?xt=urn:btih:A8C11A43E425493C0BDED524F7D35C5ADA71EA3B
+
+年度最佳漫改:URE-088三...[TRUNCATED]
+[2025-12-12 21:44:52,396.396] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：[CQ:forward,id=7582966982841566994,content=&#91;object Object&#93;]
+[2025-12-12 22:11:03,552.552] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[822309159] 用户[2739879393] 说：[CQ:at,qq=3889002639] /别名查歌 地平线
+[2025-12-12 22:11:09,824.824] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[822309159] 用户[3889002639] 说：[CQ:image,file=20b61e3a0146fdd1075e238082b3cb08.png,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSyfM4s3fYZIqXjGwRz5MeB59w8JRiupkEg_woo5rfSpZ24kQMyBHByb2RQgL2jAVoQjikXCIz82jr5luimbIXSM3oCPrCCAQJneg&amp;rkey=CAISMIGP54KJkcgculADXzUSDhP4u3heGpFVwUCV2-Vexkv4BibHoWX8jLzDptcbWXH_1g,file_size=1069870][CQ:at,qq=2739879393] 您要找的是不是：
+[2025-12-12 23:34:42,838.838] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-12 23:34:42,895.895] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-12 23:34:42,902.902] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-12 23:34:42,904.904] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 NumberBomb 卸载成功
+[2025-12-12 23:34:42,907.907] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 成语接龙 卸载成功
+[2025-12-12 23:34:42,908.908] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-12 23:34:42,911.911] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SignIn 卸载成功
+[2025-12-12 23:34:42,911.911] INFO     [MainThread|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin 卸载成功
+[2025-12-12 23:34:42,912.912] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Alive 卸载成功
+[2025-12-12 23:34:42,913.913] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Wallet 卸载成功
+[2025-12-12 23:34:42,915.915] ERROR    [MainThread|MainProcess] BasePlugin (logger.py:error:134) | 插件 TTLCleaner 卸载错误：<class 'RuntimeError'>: Event loop is closed
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\adapter\adapter.py", line 97, in connect_websocket
+    message = await self.client.recv()
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\connection.py", line 303, in recv
+    return await self.recv_messages.get(decode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 159, in get
+    frame = await self.frames.get(not self.closed)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\websockets\asyncio\messages.py", line 51, in get
+    await self.get_waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 320, in run_frontend
+    self.start(**kwargs)
+    ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\client.py", line 395, in start
+    asyncio.run(self.adapter.connect_websocket())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\plugin_system\base_plugin.py", line 181, in __unload__
+    await self.on_close(*a, **kw)
+  File "D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py", line 33, in on_close
+    self.task.cancel()                   # 优雅停任务
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 833, in call_soon
+    self._check_closed()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 556, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed
+[2025-12-12 23:34:43,338.338] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-12 23:34:43,450.450] ERROR    [MainThread|MainProcess] asyncio (base_events.py:default_exception_handler:1871) | Task was destroyed but it is pending!
+task: <Task cancelling name='Task-21' coro=<TTLCleanerPlugin._loop() running at D:\SoraBot\ncatbot\plugins\sys\ttl_cleaner.py:26> wait_for=<Future cancelled>>

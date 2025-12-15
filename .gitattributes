@@ -1,0 +1,2 @@
+config/db/word_game.db filter=lfs diff=lfs merge=lfs -text
+data/ecdict.csv filter=lfs diff=lfs merge=lfs -text

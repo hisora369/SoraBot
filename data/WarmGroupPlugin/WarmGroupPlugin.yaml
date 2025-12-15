@@ -1,0 +1,33 @@
+enabled: 'true'
+check_interval: '300'
+inactive_hours: '4.0'
+min_messages_threshold: '5'
+trigger_probability: '1.0'
+cooldown_hours: '2.0'
+ai_api_key: Bearer gwoOvnMxlStOJZQIQApq:PVFOxjBhXaNArYLcnnzS
+ai_api_url: https://spark-api-open.xf-yun.com/v1/chat/completions
+ai_model: Lite
+ai_temperature: '1.5'
+ai_max_tokens: '150'
+warm_prompts: '你是一个暖场小助手，请生成一个有趣的话题来活跃群聊。要求：
+
+  1. 话题要有趣、轻松，能引发讨论
+
+  2. 可以是开放性问题、趣味调查、热点话题等
+
+  3. 语气亲切自然，像朋友聊天
+
+  4. 长度在30-50字之间
+
+  5. 不要表情包，纯文字
+
+
+  示例话题：
+
+  - "周末大家都打算怎么过呀？"
+
+  - "最近有什么好听的歌推荐吗？"
+
+  - "如果中了100万，你会怎么花？"
+
+  - "分享一下你最近遇到的最有趣的事吧！'

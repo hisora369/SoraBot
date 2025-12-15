@@ -1,0 +1,361 @@
+[2025-12-09 19:54:53,669.669] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 配置文件未找到
+[2025-12-09 19:54:53,669.669] ERROR    [MainThread|MainProcess] Config (logger.py:error:134) | 加载配置失败: [setting] 配置文件不存在！
+[2025-12-09 19:54:53,922.922] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 配置中未设置 QQ 号
+[2025-12-09 19:55:00,766.766] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 未设置 root QQ 号，某些权限功能可能无法正常工作
+[2025-12-09 19:55:00,766.766] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 123456 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: NcatBot
+[2025-12-09 19:55:00,768.768] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 插件目录 plugins 不存在，将自动创建
+[2025-12-09 19:55:34,389.389] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 配置文件未找到
+[2025-12-09 19:55:34,389.389] ERROR    [MainThread|MainProcess] Config (logger.py:error:134) | 加载配置失败: [setting] 配置文件不存在！
+[2025-12-09 19:55:34,545.545] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 配置中未设置 QQ 号
+[2025-12-09 19:55:38,185.185] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 未设置 root QQ 号，某些权限功能可能无法正常工作
+[2025-12-09 19:55:38,185.185] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 123456 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: NcatBot
+[2025-12-09 19:55:44,359.359] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 已生成强密码: wqX09m01^kd(SH_I
+[2025-12-09 19:55:44,372.372] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-09 19:55:44,485.485] INFO     [Thread-19 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-09 19:55:44,485.485] INFO     [Thread-19 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-09 19:55:44,486.486] INFO     [Thread-19 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [2]
+[2025-12-09 19:55:44,487.487] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-09 19:55:44,513.513] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-09 19:57:18,567.567] ERROR    [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:error:134) | 授权操作超时, 连接 WebUI 成功但无法获取授权信息, 可以使用 bot.run(enable_webui_interaction=False) 跳过鉴权
+[2025-12-09 19:57:18,568.568] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:info:129) | 建议更新到最新版本 NapCat
+[2025-12-09 19:57:18,595.595] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:info:129) | Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\adapter\nc\login.py", line 70, in __init__
+    "Authorization": "Bearer " + content["data"]["Credential"],
+                                 ~~~~~~~^^^^^^^^
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\adapter\nc\login.py", line 94, in __init__
+    "Authorization": "Bearer " + content["data"]["Credential"],
+                                 ~~~~~~~^^^^^^^^
+KeyError: 'data'
+
+[2025-12-09 20:01:47,108.108] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 未设置 root QQ 号，某些权限功能可能无法正常工作
+[2025-12-09 20:01:47,108.108] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 123456 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: wqX09m01^kd(SH_I
+[2025-12-09 20:01:47,110.110] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-09 20:01:47,201.201] INFO     [Thread-19 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-09 20:01:47,202.202] INFO     [Thread-19 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-09 20:01:47,202.202] INFO     [Thread-19 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [2]
+[2025-12-09 20:01:47,203.203] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-09 20:01:47,227.227] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-09 20:03:21,060.060] ERROR    [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:error:134) | 授权操作超时, 连接 WebUI 成功但无法获取授权信息, 可以使用 bot.run(enable_webui_interaction=False) 跳过鉴权
+[2025-12-09 20:03:21,061.061] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:info:129) | 建议更新到最新版本 NapCat
+[2025-12-09 20:03:21,062.062] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:info:129) | Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\adapter\nc\login.py", line 70, in __init__
+    "Authorization": "Bearer " + content["data"]["Credential"],
+                                 ~~~~~~~^^^^^^^^
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HISORA\AppData\Local\Programs\Python\Python313\Lib\site-packages\ncatbot\core\adapter\nc\login.py", line 94, in __init__
+    "Authorization": "Bearer " + content["data"]["Credential"],
+                                 ~~~~~~~^^^^^^^^
+KeyError: 'data'
+
+[2025-12-09 20:13:25,439.439] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 未设置 root QQ 号，某些权限功能可能无法正常工作
+[2025-12-09 20:13:25,439.439] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 123456 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: wqX09m01^kd(SH_I
+[2025-12-09 20:13:25,441.441] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-09 20:13:25,527.527] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-09 20:13:25,527.527] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-09 20:13:25,528.528] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [2]
+[2025-12-09 20:13:25,529.529] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-09 20:13:25,550.550] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-09 20:15:03,907.907] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 配置文件未找到
+[2025-12-09 20:15:03,907.907] ERROR    [MainThread|MainProcess] Config (logger.py:error:134) | 加载配置失败: [setting] 配置文件不存在！
+[2025-12-09 20:15:04,070.070] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 配置中未设置 QQ 号
+[2025-12-09 20:15:10,327.327] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 未设置 root QQ 号，某些权限功能可能无法正常工作
+[2025-12-09 20:15:10,327.327] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 123456 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: NcatBot
+[2025-12-09 20:15:15,330.330] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 已生成强密码: JSV#4h}$IwR>y0D|
+[2025-12-09 20:15:15,332.332] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-09 20:15:15,413.413] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-09 20:15:15,413.413] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-09 20:15:15,414.414] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [2]
+[2025-12-09 20:15:15,415.415] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-09 20:15:15,438.438] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-09 20:15:35,900.900] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 未设置 root QQ 号，某些权限功能可能无法正常工作
+[2025-12-09 20:15:35,901.901] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 123456 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-09 20:15:35,902.902] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-09 20:15:35,986.986] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-09 20:15:35,986.986] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-09 20:15:35,987.987] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [2]
+[2025-12-09 20:15:35,987.987] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-09 20:15:40,058.058] WARNING  [Thread-4 (runner)|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:warning:139) | 测试 websocket 连接失败: [WinError 1225] 远程计算机拒绝网络连接。
+[2025-12-09 20:15:40,107.107] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.install (logger.py:info:129) | 未找到 napcat ，是否要自动安装？
+[2025-12-09 20:16:02,648.648] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.install (logger.py:info:129) | 正在获取版号信息... https://api.github.com/repos/NapNeko/NapCatQQ/tags
+[2025-12-09 20:16:04,308.308] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.install (logger.py:info:129) | 下载链接为 https://ghfast.top/https://github.com/NapNeko/NapCatQQ/releases/download/v4.9.81/NapCat.Shell.zip...
+[2025-12-09 20:16:04,308.308] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.install (logger.py:info:129) | 正在下载 napcat 客户端, 请稍等...
+[2025-12-09 20:16:57,423.423] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.utils (logger.py:info:129) | 解压 napcat.zip 成功
+[2025-12-09 20:16:57,432.432] WARNING  [MainThread|MainProcess] ncatbot.core.adapter.nc.config (logger.py:warning:139) | 第一次运行 WebUI, 将创建 WebUI 配置文件
+[2025-12-09 20:16:57,500.500] INFO     [MainThread|MainProcess] adapter.nc.start (logger.py:info:129) | 当前操作系统为: Windows 11
+[2025-12-09 20:16:57,501.501] INFO     [MainThread|MainProcess] adapter.nc.start (logger.py:info:129) | 正在启动QQ, 启动器路径: D:\SoraBot\ncatbot\napcat\launcher.bat
+[2025-12-09 20:17:01,585.585] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 登录中...
+[2025-12-09 20:17:09,782.782] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:info:129) | 快速登录列表: ['2739879393', '1286149997']
+[2025-12-09 20:17:09,782.782] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:info:129) | 正在发送快速登录请求...
+[2025-12-09 20:17:11,821.821] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:info:129) | 快速登录成功
+[2025-12-09 20:17:15,889.889] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 连接 napcat websocket 服务器成功!
+[2025-12-09 20:17:15,890.890] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 连接成功
+[2025-12-09 20:17:15,892.892] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-09 20:17:15,893.893] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-09 20:17:35,982.982] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-09 20:19:00,446.446] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-09 20:19:00,448.448] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-09 20:19:00,449.449] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-09 20:19:00,452.452] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-09 20:19:00,942.942] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 未设置 root QQ 号，某些权限功能可能无法正常工作
+[2025-12-09 20:19:00,943.943] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 123456 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-09 20:19:00,944.944] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-09 20:19:01,021.021] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-09 20:19:01,021.021] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-09 20:19:01,021.021] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [2]
+[2025-12-09 20:19:01,023.023] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-09 20:19:01,046.046] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-09 20:19:07,242.242] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-09 20:19:07,242.242] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-09 20:19:22,248.248] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-09 20:38:51,663.663] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-09 20:38:51,665.665] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-09 20:38:51,666.666] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-09 20:38:51,668.668] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-09 20:38:52,168.168] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 未设置 root QQ 号，某些权限功能可能无法正常工作
+[2025-12-09 20:38:52,168.168] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 123456 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-09 20:38:52,169.169] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-09 20:38:52,253.253] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-09 20:38:52,253.253] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-09 20:38:52,265.265] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: interaction
+[2025-12-09 20:38:52,269.269] ERROR    [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:error:134) | 导入模块 __init__ 时出错: attempted relative import with no known parent package
+[2025-12-09 20:40:18,431.431] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 未设置 root QQ 号，某些权限功能可能无法正常工作
+[2025-12-09 20:40:18,432.432] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 123456 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-09 20:40:18,433.433] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-09 20:40:18,530.530] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-09 20:40:18,530.530] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-09 20:40:18,537.537] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-09 20:40:18,540.540] INFO     [asyncio_0|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-09 20:40:18,541.541] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [3]
+[2025-12-09 20:40:18,542.542] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-09 20:40:18,568.568] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-09 20:40:24,767.767] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-09 20:40:24,768.768] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-09 20:40:59,793.793] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-09 20:40:59,794.794] ERROR    [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:error:134) | 执行函数 on_group_message 时发生错误: WebSocket 未连接
+[2025-12-09 20:41:19,644.644] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭, 正在尝试重新连接...
+[2025-12-09 20:41:28,094.094] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 未设置 root QQ 号，某些权限功能可能无法正常工作
+[2025-12-09 20:41:28,094.094] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 123456 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-09 20:41:28,096.096] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-09 20:41:28,202.202] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-09 20:41:28,203.203] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-09 20:41:28,204.204] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-09 20:41:28,206.206] INFO     [asyncio_0|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-09 20:41:28,206.206] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [3]
+[2025-12-09 20:41:28,207.207] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-09 20:41:32,283.283] WARNING  [Thread-4 (runner)|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:warning:139) | 测试 websocket 连接失败: [WinError 1225] 远程计算机拒绝网络连接。
+[2025-12-09 20:41:32,428.428] INFO     [MainThread|MainProcess] adapter.nc.start (logger.py:info:129) | 当前操作系统为: Windows 11
+[2025-12-09 20:41:32,428.428] INFO     [MainThread|MainProcess] adapter.nc.start (logger.py:info:129) | 正在启动QQ, 启动器路径: D:\SoraBot\ncatbot\napcat\launcher.bat
+[2025-12-09 20:41:36,502.502] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 登录中...
+[2025-12-09 20:41:44,809.809] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:info:129) | 快速登录列表: ['2739879393', '1286149997']
+[2025-12-09 20:41:44,809.809] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:info:129) | 正在发送快速登录请求...
+[2025-12-09 20:41:46,856.856] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:info:129) | 快速登录成功
+[2025-12-09 20:41:50,974.974] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 连接 napcat websocket 服务器成功!
+[2025-12-09 20:41:50,974.974] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 连接成功
+[2025-12-09 20:41:50,978.978] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-09 20:41:50,978.978] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-09 20:42:18,405.405] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-09 20:42:18,406.406] ERROR    [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:error:134) | 执行函数 on_group_message 时发生错误: WebSocket 未连接
+[2025-12-09 20:42:51,454.454] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-09 20:42:51,456.456] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-09 20:42:51,456.456] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-09 20:42:51,457.457] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-09 20:42:51,459.459] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-09 20:42:55,094.094] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 未设置 root QQ 号，某些权限功能可能无法正常工作
+[2025-12-09 20:42:55,095.095] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 123456 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-09 20:42:55,096.096] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-09 20:42:55,178.178] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-09 20:42:55,179.179] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-09 20:42:55,181.181] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-09 20:42:55,183.183] INFO     [asyncio_0|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-09 20:42:55,184.184] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [3]
+[2025-12-09 20:42:55,185.185] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-09 20:42:55,204.204] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-09 20:43:01,429.429] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-09 20:43:01,430.430] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-09 20:43:08,836.836] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-09 20:43:08,836.836] ERROR    [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:error:134) | 执行函数 on_group_message 时发生错误: WebSocket 未连接
+[2025-12-09 20:43:13,236.236] ERROR    [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:error:134) | 执行函数 on_group_message 时发生错误: WebSocket 未连接
+[2025-12-09 20:43:14,284.284] ERROR    [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:error:134) | 执行函数 on_group_message 时发生错误: WebSocket 未连接
+[2025-12-09 20:43:36,942.942] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-09 20:43:36,944.944] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-09 20:43:36,945.945] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-09 20:43:36,945.945] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-09 20:43:36,947.947] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-09 20:43:53,714.714] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 未设置 root QQ 号，某些权限功能可能无法正常工作
+[2025-12-09 20:43:53,714.714] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 123456 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-09 20:43:53,716.716] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-09 20:43:53,817.817] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-09 20:43:53,817.817] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-09 20:43:53,819.819] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-09 20:43:53,821.821] INFO     [asyncio_0|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-09 20:43:53,822.822] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [3]
+[2025-12-09 20:43:53,823.823] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-09 20:43:57,914.914] WARNING  [Thread-4 (runner)|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:warning:139) | 测试 websocket 连接失败: [WinError 1225] 远程计算机拒绝网络连接。
+[2025-12-09 20:43:57,989.989] INFO     [MainThread|MainProcess] adapter.nc.start (logger.py:info:129) | 当前操作系统为: Windows 11
+[2025-12-09 20:43:57,989.989] INFO     [MainThread|MainProcess] adapter.nc.start (logger.py:info:129) | 正在启动QQ, 启动器路径: D:\SoraBot\ncatbot\napcat\launcher.bat
+[2025-12-09 20:44:02,058.058] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 登录中...
+[2025-12-09 20:44:43,216.216] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:info:129) | 快速登录列表: ['2739879393', '1286149997']
+[2025-12-09 20:44:43,216.216] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:info:129) | 正在发送快速登录请求...
+[2025-12-09 20:44:45,284.284] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:info:129) | 快速登录成功
+[2025-12-09 20:44:49,395.395] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 连接 napcat websocket 服务器成功!
+[2025-12-09 20:44:49,395.395] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 连接成功
+[2025-12-09 20:44:49,398.398] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-09 20:44:49,398.398] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-09 20:45:05,975.975] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-09 20:45:05,976.976] ERROR    [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:error:134) | 执行函数 on_group_message 时发生错误: WebSocket 未连接
+[2025-12-09 20:56:40,588.588] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-09 20:56:40,590.590] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-09 20:56:40,590.590] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-09 20:56:40,591.591] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-09 20:56:40,593.593] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-09 20:56:42,845.845] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 未设置 root QQ 号，某些权限功能可能无法正常工作
+[2025-12-09 20:56:42,845.845] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 123456 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-09 20:56:42,847.847] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-09 20:56:42,932.932] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-09 20:56:42,932.932] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-09 20:56:42,935.935] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-09 20:56:42,937.937] INFO     [asyncio_0|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-09 20:56:42,937.937] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [3]
+[2025-12-09 20:56:42,938.938] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-09 20:56:42,965.965] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-09 20:56:49,190.190] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-09 20:56:49,191.191] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-09 20:56:49,954.954] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-09 21:47:56,027.027] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-09 21:47:56,034.034] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-09 21:47:56,035.035] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-09 21:47:56,035.035] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-09 21:47:56,041.041] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-09 21:48:03,723.723] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 未设置 root QQ 号，某些权限功能可能无法正常工作
+[2025-12-09 21:48:03,723.723] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 123456 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-09 21:48:03,726.726] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-09 21:48:03,824.824] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-09 21:48:03,824.824] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-09 21:48:03,838.838] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-09 21:48:03,841.841] INFO     [asyncio_0|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-09 21:48:03,842.842] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [3]
+[2025-12-09 21:48:03,843.843] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-09 21:48:03,870.870] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-09 21:48:10,081.081] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-09 21:48:10,082.082] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-09 21:48:22,106.106] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-09 22:38:35,058.058] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-09 22:38:35,064.064] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-09 22:38:35,065.065] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-09 22:38:35,066.066] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-09 22:38:35,070.070] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-09 22:38:36,779.779] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-09 22:38:36,780.780] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-09 22:38:36,885.885] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-09 22:38:36,885.885] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-09 22:38:37,506.506] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-09 22:38:37,507.507] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-09 22:38:37,521.521] INFO     [asyncio_0|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-09 22:38:37,523.523] INFO     [asyncio_1|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-09 22:38:37,524.524] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [4]
+[2025-12-09 22:38:37,564.564] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-09 22:38:37,598.598] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-09 22:38:43,730.730] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-09 22:38:43,730.730] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-09 22:38:50,217.217] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-09 22:38:50,217.217] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：测试
+[2025-12-09 22:38:56,235.235] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：/hello
+[2025-12-09 22:38:59,460.460] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：号
+[2025-12-09 22:39:00,707.707] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：好
+[2025-12-09 22:41:52,879.879] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[1600774119] 说：[CQ:at,qq=1286149997]
+[2025-12-09 22:41:58,193.193] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[1600774119] 说：[CQ:at,qq=2739879393]
+[2025-12-09 22:49:09,279.279] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3313722090] 说：你不用你觉得你这两下子能镇住我，我说白了，你家那个地板都是我的机器人监控，你上厕所我看的一清二楚，我那天不惜的和你玩了，我就摁那个按钮，完事你家那个地板库库变成我操控的机器人，一电炮让你不省人事，你不用骂我，我说白了，弄你可太简单了跟玩似的，我的手段狠辣，我随时操纵你，你永远抓不着我，你以为我跟你开玩笑呢我依旧能控制你，我就是猖狂
+[2025-12-09 23:17:38,214.214] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接已关闭
+[2025-12-09 23:17:38,218.218] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 SystemManager 卸载成功
+[2025-12-09 23:17:38,218.218] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 UnifiedRegistryPlugin 卸载成功
+[2025-12-09 23:17:38,218.218] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 Alive 卸载成功
+[2025-12-09 23:17:38,219.219] INFO     [MainThread|MainProcess] ncatbot.plugin_system (logger.py:info:129) | 插件 InteractionPlugin 卸载成功
+[2025-12-09 23:17:38,222.222] INFO     [MainThread|MainProcess] Client (logger.py:info:129) | Bot 已经正常退出
+[2025-12-09 23:17:42,270.270] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-09 23:17:42,272.272] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-09 23:17:42,378.378] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-09 23:17:42,378.378] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-09 23:17:42,498.498] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-09 23:17:42,499.499] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-09 23:17:42,499.499] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-09 23:17:42,500.500] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-09 23:17:42,509.509] INFO     [asyncio_3|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-09 23:17:42,509.509] INFO     [asyncio_0|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-09 23:17:42,510.510] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [6]
+[2025-12-09 23:17:42,511.511] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-09 23:17:42,537.537] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | napcat 服务器 ws://localhost:3001 在线, 正在检查账号状态...
+[2025-12-09 23:17:48,708.708] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-09 23:17:48,708.708] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-09 23:18:00,706.706] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-09 23:18:01,282.282] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：/hello
+[2025-12-09 23:18:07,702.702] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：/sign
+[2025-12-09 23:18:17,163.163] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：/sign
+[2025-12-09 23:18:24,560.560] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：/账户
+[2025-12-09 23:19:22,825.825] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：/hello
+[2025-12-09 23:19:29,693.693] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：/sign
+[2025-12-09 23:21:44,762.762] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[2739879393] 说：[CQ:at,qq=3889001382] /sign
+[2025-12-09 23:21:46,984.984] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889001382] 说：[CQ:at,qq=2739879393] 您今天已经签到过了，当前点数剩余：1383
+[2025-12-09 23:21:51,487.487] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[2739879393] 说：ok
+[2025-12-09 23:22:07,373.373] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1662421142] 说：[CQ:at,qq=3889001382] /sign
+[2025-12-09 23:22:09,417.417] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889001382] 说：[CQ:at,qq=1662421142] 您今天已经签到过了，当前点数剩余：1704
+[2025-12-09 23:22:12,789.789] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1662421142] 说：ok
+[2025-12-09 23:23:22,112.112] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/hello
+[2025-12-09 23:23:30,113.113] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：[CQ:at,qq=1286149997] 你是福瑞控吗
+[2025-12-09 23:23:36,941.941] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/sign
+[2025-12-09 23:23:42,205.205] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/sign
+[2025-12-09 23:23:44,282.282] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/sign/sign
+[2025-12-09 23:23:45,378.378] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/sign
+[2025-12-09 23:23:45,811.811] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/sign
+[2025-12-09 23:23:46,339.339] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/sign
+[2025-12-09 23:23:46,627.627] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/sign
+[2025-12-09 23:23:47,149.149] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/sign
+[2025-12-09 23:23:47,419.419] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/sign
+[2025-12-09 23:23:47,709.709] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/sign
+[2025-12-09 23:23:47,786.786] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/sign
+[2025-12-09 23:23:47,909.909] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/sign
+[2025-12-09 23:23:48,063.063] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/sign
+[2025-12-09 23:23:48,106.106] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：/sign
+[2025-12-09 23:26:56,379.379] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：[CQ:at,qq=3228615468] 啥福
+[2025-12-09 23:27:07,221.221] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3228615468] 说：不客气
+[2025-12-09 23:27:13,231.231] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[2739879393] 说：[CQ:image,summary=&#91;动画表情&#93;,file=A34D9F99B3E6371F9C7FE259F5DE97DB.jpg,sub_type=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhRHtRK_xuamGnblycu2sNjtqqc6Jhiv7wMg_woo7ffL3OiwkQMyBHByb2RQgL2jAVoQXwPHTBdyzVIjCeJ4XBqdjXoCIkSCAQJneg&amp;rkey=CAISMGpBfnwAbDWSEJS7bfQKuG8yEr5soC_Vua4g_r9xv-u7CZ_N2tzWsQt82DgvvfHpJw,file_size=63407]
+[2025-12-09 23:31:42,300.300] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[2186403614] 说：[CQ:at,qq=3889001382] /sign
+[2025-12-09 23:31:43,507.507] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889001382] 说：[CQ:markdown,content=&#91;&#93;(%7B%22version%22%3A2%7D)
+&#91;@奈繁花落尽&#93;(mqqapi://markdown/mention?at_type=1&amp;at_tinyid=2186403614)### 签到成功！您已经连续签到 1 天，本次签到获得点数：26，剩余点数：1961***> 昵称：Reve称号：无权限等级：User签到时间：2025-12-09 23:31:39***常用指令菜单][CQ:at,qq=2186403614] @奈繁花落尽 ### 签到成功！您已经连续签到 1 天，本次签到获得点数：26，剩余点数：1961
+
+
+> 昵称：Reve
+称号：无
+权限等级：User
+签到时间：2025-12-09 23:31:39
+
+
+常用指令菜单
+[2025-12-09 23:31:52,237.237] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1306852254] 说：[CQ:at,qq=3889001382] /sign
+[2025-12-09 23:31:53,546.546] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889001382] 说：[CQ:markdown,content=&#91;&#93;(%7B%22version%22%3A2%7D)
+&#91;@TJ桑&#93;(mqqapi://markdown/mention?at_type=1&amp;at_tinyid=1306852254)### 签到成功！您已经连续签到 1 天，本次签到获得点数：28，剩余点数：5070***> 昵称：TJ称号：无权限等级：User签到时间：2025-12-09 23:31:49***常用指令菜单][CQ:at,qq=1306852254] @TJ桑 ### 签到成功！您已经连续签到 1 天，本次签到获得点数：28，剩余点数：5070
+
+
+> 昵称：TJ
+称号：无
+权限等级：User
+签到时间：2025-12-09 23:31:49
+
+
+常用指令菜单
+[2025-12-09 23:31:55,170.170] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1306852254] 说：[CQ:at,qq=3889001382] /pc50
+[2025-12-09 23:32:13,018.018] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889001382] 说：[CQ:image,file=632957ff11b72f2b8dac3e6bd5dd04d2.jpeg,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhR3u6P1o1t0U3iq7OD-RfsQNuQHhRj45Vsg_woorfOx6-mwkQMyBHByb2RQgL2jAVoQC8CDSWlxCUHmKjB6jX1YhnoCzvyCAQJneg&amp;rkey=CAISMGpBfnwAbDWSEJS7bfQKuG8yEr5soC_Vua4g_r9xv-u7CZ_N2tzWsQt82DgvvfHpJw,file_size=1503992][CQ:at,qq=1306852254] 今天已经获取1次，本次消耗0点数，剩余5070点数。
+
+ref_id: 01275544
+[2025-12-09 23:33:09,478.478] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[2186403614] 说：[CQ:at,qq=3889001382] /pc50
+[2025-12-09 23:33:25,063.063] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889001382] 说：[CQ:image,file=c579c24a73229c5658a2a0c2c29e8f9b.jpeg,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhQADqZA0vjrN_zmDD0dyOmhZLYgChibw14g_woo1OrkjeqwkQMyBHByb2RQgL2jAVoQl-vSkpRFhECrLBPLGu9T5HoCoi-CAQJneg&amp;rkey=CAISMGpBfnwAbDWSEJS7bfQKuG8yEr5soC_Vua4g_r9xv-u7CZ_N2tzWsQt82DgvvfHpJw,file_size=1548699][CQ:at,qq=2186403614] 今天已经获取1次，本次消耗0点数，剩余1961点数。
+
+ref_id: 01275546

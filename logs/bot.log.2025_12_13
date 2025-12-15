@@ -1,0 +1,102 @@
+[2025-12-13 19:35:56,115.115] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | [BOTQQ]: 1286149997 | [WSURI]: ws://localhost:3001 | [WS_TOKEN]: NcatBot | [ROOT]: 2739879393 | [WEBUI]: http://localhost:6099 | [WEBUI_TOKEN]: JSV#4h}$IwR>y0D|
+[2025-12-13 19:35:56,120.120] INFO     [MainThread|MainProcess] Config (logger.py:info:129) | 配置已保存到 D:\SoraBot\ncatbot\config.yaml
+[2025-12-13 19:35:56,434.434] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载内置插件数 [2]
+[2025-12-13 19:35:56,434.434] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 从 D:\SoraBot\ncatbot\plugins 导入插件
+[2025-12-13 19:35:57,352.352] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 成功导入插件文件: __init__
+[2025-12-13 19:35:57,353.353] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「NumberBomb」
+[2025-12-13 19:35:57,354.354] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「成语接龙」
+[2025-12-13 19:35:57,570.570] INFO     [Thread-2 (runner)|MainProcess] ChengyuJielong (logger.py:info:129) | ✅ 加载成语 30895 条
+[2025-12-13 19:35:57,570.570] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「InteractionPlugin」
+[2025-12-13 19:35:57,571.571] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「SignIn」
+[2025-12-13 19:35:57,586.586] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「FortunePlugin」
+[2025-12-13 19:35:57,589.589] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Alive」
+[2025-12-13 19:35:57,593.593] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「Wallet」
+[2025-12-13 19:35:57,597.597] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 加载插件「TTLCleaner」
+[2025-12-13 19:35:57,619.619] INFO     [asyncio_2|MainProcess] Interaction (logger.py:info:129) | 插件 InteractionPlugin 加载成功
+[2025-12-13 19:35:57,619.619] INFO     [asyncio_1|MainProcess] ChengyuJielong (logger.py:info:129) | 插件 成语接龙 加载成功
+[2025-12-13 19:35:57,620.620] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 插件 FortunePlugin v1.0.0 加载成功
+[2025-12-13 19:35:57,621.621] INFO     [asyncio_4|MainProcess] FortunePlugin (logger.py:info:129) | 今日运势插件已就绪！
+[2025-12-13 19:35:57,623.623] INFO     [asyncio_6|MainProcess] Wallet (logger.py:info:129) | 插件 Wallet 加载成功
+[2025-12-13 19:35:57,623.623] INFO     [asyncio_3|MainProcess] SignIn (logger.py:info:129) | 插件 SignIn 加载成功
+[2025-12-13 19:35:57,623.623] INFO     [asyncio_7|MainProcess] TTLCleaner (logger.py:info:129) | 插件 TTLCleaner 加载成功
+[2025-12-13 19:35:57,623.623] INFO     [asyncio_5|MainProcess] AlivePlugin (logger.py:info:129) | Alive 插件已加载
+[2025-12-13 19:35:57,624.624] INFO     [asyncio_0|MainProcess] NumberBomb (logger.py:info:129) | 插件 NumberBomb 加载成功
+[2025-12-13 19:35:57,626.626] INFO     [Thread-2 (runner)|MainProcess] PluginLoader (logger.py:info:129) | 已加载插件数 [10]
+[2025-12-13 19:35:57,629.629] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 正在以本地模式运行, 检查中...
+[2025-12-13 19:36:01,672.672] WARNING  [Thread-5 (runner)|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:warning:139) | 测试 websocket 连接失败: [WinError 1225] 远程计算机拒绝网络连接。
+[2025-12-13 19:36:01,820.820] INFO     [MainThread|MainProcess] adapter.nc.start (logger.py:info:129) | 当前操作系统为: Windows 11
+[2025-12-13 19:36:01,820.820] INFO     [MainThread|MainProcess] adapter.nc.start (logger.py:info:129) | 正在启动QQ, 启动器路径: D:\SoraBot\ncatbot\napcat\launcher.bat
+[2025-12-13 19:36:05,848.848] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 登录中...
+[2025-12-13 19:36:14,508.508] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:info:129) | 快速登录列表: ['2739879393', '1286149997']
+[2025-12-13 19:36:14,508.508] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:info:129) | 正在发送快速登录请求...
+[2025-12-13 19:36:16,524.524] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.login (logger.py:info:129) | 快速登录成功
+[2025-12-13 19:36:20,568.568] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 连接 napcat websocket 服务器成功!
+[2025-12-13 19:36:20,569.569] INFO     [MainThread|MainProcess] ncatbot.core.adapter.nc.launch (logger.py:info:129) | 连接成功
+[2025-12-13 19:36:20,573.573] INFO     [MainThread|MainProcess] Adapter (logger.py:info:129) | NapCat WebSocket 连接成功
+[2025-12-13 19:36:20,574.574] INFO     [asyncio_0|MainProcess] Client (logger.py:info:129) | Bot 1286149997 启动成功
+[2025-12-13 19:36:30,650.650] INFO     [MainThread|MainProcess] ncatbot.plugin_system.builtin_plugin.unified_registry.plugin (logger.py:info:129) | 命令前缀集合: ['/', '!']
+[2025-12-13 19:36:30,651.651] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：测试
+[2025-12-13 19:54:46,719.719] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[318083168] 用户[2739879393] 说：[CQ:image,file=0043E876BD0BCAAA025A7D66651BCDA1.jpg,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhTe-ITW9zAXIIobMZs0x_n-3AIOLBjfpnAg_woo8faX2cC6kQMyBHByb2RQgL2jAVoQvoNd4pFHI-wN4tlzow4ERHoC1ryCAQJneg&amp;rkey=CAMSMG5BMTMq5AMESJJnhTsfvHF0KBz4AxbqtU5aQMonO-RfdBDFipt3vAsCSAfEe-aBKg,file_size=1839967]
+[2025-12-13 19:58:37,975.975] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1662421142] 说：[CQ:image,summary=&#91;动画表情&#93;,file=74A7829FC3F320D0C4389AB9865772CA.jpg,sub_type=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhTyG20fbaaEJgTb_Y5PRNnQRl5c7Ri-3wwg_woouoTfyMG6kQMyBHByb2RQgL2jAVoQLvlU13trOKcS3-zFKvBauHoCQZiCAQJneg&amp;rkey=CAMSMG5BMTMq5AMESJJnhTsfvHF0KBz4AxbqtU5aQMonO-RfdBDFipt3vAsCSAfEe-aBKg,file_size=208830]
+[2025-12-13 20:14:42,996.996] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3192504536] 说：[CQ:image,file=1B1BB79801BCEF4A9AC2A44C7C085A9E.jpg,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSjXMRfQ66ttK6KNSJiuPwi1u7VphiA4wYg_woo1oPelMW6kQMyBHByb2RQgL2jAVoQUyI1ylhdaPsecgxIfoThBHoCv4aCAQJneg&amp;rkey=CAMSMG5BMTMq5AMESJJnhTsfvHF0KBz4AxbqtU5aQMonO-RfdBDFipt3vAsCSAfEe-aBKg,file_size=110976]
+[2025-12-13 20:14:44,587.587] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3192504536] 说：无敌了
+[2025-12-13 20:34:22,122.122] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3313722090] 说：[CQ:image,summary=&#91;动画表情&#93;,file=1ECD0774C917EAD3434B43124E0792B9.png,sub_type=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhRSqiNA8HGoNdvzLZZzwoXRHei5lhiC9Acg_woos-aCx8m6kQMyBHByb2RQgL2jAVoQaVsjwg6jcqGb_cvxEN6bNHoChnaCAQJneg&amp;rkey=CAMSMG5BMTMq5AMESJJnhTsfvHF0KBz4AxbqtU5aQMonO-RfdBDFipt3vAsCSAfEe-aBKg,file_size=129538]
+[2025-12-13 21:48:45,702.702] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1662421142] 说：[CQ:at,qq=3889001382] /ap50
+[2025-12-13 21:48:48,909.909] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889001382] 说：[CQ:at,qq=1662421142] 未知错误：<class 'TypeError'>
+请联系Bot管理员
+[2025-12-13 21:48:53,947.947] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1662421142] 说：[CQ:at,qq=3889001382] /sign
+[2025-12-13 21:48:56,086.086] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889001382] 说：[CQ:markdown,content=&#91;&#93;(%7B%22version%22%3A2%7D)
+&#91;@cloyed&#93;(mqqapi://markdown/mention?at_type=1&amp;at_tinyid=1662421142)### 签到成功！您已经连续签到 1 天，本次签到获得点数：17，剩余点数：1802***> 昵称：cloyed称号：无权限等级：User签到时间：2025-12-13 21:48:54***常用指令菜单][CQ:at,qq=1662421142] @cloyed ### 签到成功！您已经连续签到 1 天，本次签到获得点数：17，剩余点数：1802
+
+
+> 昵称：cloyed
+称号：无
+权限等级：User
+签到时间：2025-12-13 21:48:54
+
+
+常用指令菜单
+[2025-12-13 21:51:13,679.679] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1662421142] 说：[CQ:at,qq=3889001382] /ap50
+[2025-12-13 21:51:17,044.044] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889001382] 说：[CQ:at,qq=1662421142] 未知错误：<class 'TypeError'>
+请联系Bot管理员
+[2025-12-13 21:51:21,904.904] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1662421142] 说：[CQ:at,qq=3889001382] /b50
+[2025-12-13 21:51:25,303.303] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889001382] 说：[CQ:at,qq=1662421142] 未知错误：<class 'TypeError'>
+请联系Bot管理员
+[2025-12-13 21:52:37,134.134] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[2186403614] 说：[CQ:at,qq=3889001382] /sign
+[2025-12-13 21:52:38,215.215] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889001382] 说：[CQ:at,qq=2186403614] 您今天已经签到过了，当前点数剩余：2071
+[2025-12-13 22:26:54,602.602] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3378159109] 说：[CQ:forward,id=7583348932571999110,content=&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;]
+[2025-12-13 22:27:16,799.799] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3378159109] 说：[CQ:image,file=8999A11DD9C25EF4405A699E13FE5A46.jpeg,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSQ-y0Br3-bod3TsZT74YyLBjTl0hjVjwkg_wooqMHw5eK6kQMyBHByb2RQgL2jAVoQoc0ywJhImBBce2TITECo3XoCfGyCAQJneg&amp;rkey=CAMSMHIAg7nR92Lu3eBYZZ2ksMphy-yjt689dbBO5i9hH0hdll2rIv2dc5mp0rISU7YAGg,file_size=149461]
+[2025-12-13 22:27:26,618.618] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3378159109] 说：[CQ:video,file=11437827b4e914f14bb3484b61cc40c4.mp4,url=https://multimedia.nt.qq.com.cn/download?appid=1415&amp;format=origin&amp;orgfmt=t264&amp;spec=0&amp;rkey=CAISqAHT7DdJ0kfGi1AULqK-0216K09B66QZfkN1oamYBn4PI1ziHmS3_8cr_A8hIC50YPkvcHwJUqNTMBsGqxCn_XDhKQ8rtZuGTLDyReUAcw2EtcwZWY5SDoxQCUh8-76XeX6h3ngya7ExsDXDtyebN--bWlXgPi_H1l9pZcZmR4h5fMk4h74oGN-HLxWb1xuLpYEau35PBSSlOqn-6cCpOwYsiyJiq_hJVtk,file_size=1337973]
+[2025-12-13 22:31:17,045.045] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3378159109] 说：[CQ:forward,id=7583350053886728489,content=&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;]
+[2025-12-13 22:31:37,510.510] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[163620041] 用户[3378159109] 说：[CQ:forward,id=7583350148196467444,content=&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;&#44;&#91;object Object&#93;]
+[2025-12-13 23:30:52,628.628] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1306852254] 说：[CQ:at,qq=3889001382] /b50 -pc
+[2025-12-13 23:31:10,849.849] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889001382] 说：[CQ:image,file=6345ceb1f4990e7310d8c72bdf0bcf3f.jpeg,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhRyVK8opuPB1fP00bx8ATaP5d1_2xi08F4g_wooxdTRifG6kQMyBHByb2RQgL2jAVoQne8UXZdK57Rmipx5yMPdxXoCyJGCAQJuag&amp;rkey=CAESMDl_tz3m7QgXiAGubAX0HANmwBYRm4FWKSQmhq9tNNrB5OLsUIR9rlsCL5dUTgeORg,file_size=1554484][CQ:at,qq=1306852254] 今天已经获取1次，本次消耗0点数，剩余5070点数。
+
+tip: /search 和 /item 可以查询物品解锁条件~
+
+ref_id: 01291769
+[2025-12-13 23:52:36,604.604] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1662421142] 说：[CQ:at,qq=3889001382] /ap50
+[2025-12-13 23:52:42,531.531] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889001382] 说：[CQ:image,file=6b24de3e9c99560e66101e3f9e1a7667.jpeg,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhQr7nVrPcR1QhreXrtUekqS51M8XRj9900g_wooz8ne8fW6kQMyBHByb2RQgL2jAVoQUM3pQQL0B0eqOwEgV2S153oCNumCAQJneg&amp;rkey=CAESMDl_tz3m7QgXiAGubAX0HANmwBYRm4FWKSQmhq9tNNrB5OLsUIR9rlsCL5dUTgeORg,file_size=1276925][CQ:at,qq=1662421142] 今天已经获取1次，本次消耗0点数，剩余1802点数。
+
+ref_id: 01291942
+[2025-12-13 23:54:02,413.413] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1662421142] 说：[CQ:at,qq=2854199949] /maib40
+[2025-12-13 23:54:06,027.027] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[2854199949] 说：[CQ:at,qq=1662421142] 提比手绘中，请耐心等待~
+[2025-12-13 23:54:12,868.868] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[2854199949] 说：[CQ:image,file=2e7725bb855041c3fbc360f219b9a33f.jpeg,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhQN4v1liM_Iog-nOIEMQj9zwlY3iBiJylMg_woowpXAnPa6kQMyBHByb2RQgL2jAVoQkBsWyUjvW-q-PdqC9Yh0ZXoC-QOCAQJuag&amp;rkey=CAESMDl_tz3m7QgXiAGubAX0HANmwBYRm4FWKSQmhq9tNNrB5OLsUIR9rlsCL5dUTgeORg,file_size=1369353][CQ:at,qq=1662421142] 当前数据源: Diving-Fish
+发送"/舞萌数据源 水鱼/落雪" 来切换数据源
+[2025-12-13 23:55:11,322.322] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1306852254] 说：[CQ:at,qq=3889001382] /ap50
+[2025-12-13 23:55:24,243.243] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889001382] 说：[CQ:image,file=d8ef7606063f5e6ae5f54baaca4ba339.jpeg,sub_type=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhRUZndtv4PZz1VwVbbL8bDBEQ5JmRiT31Qg_woouIffvva6kQMyBHByb2RQgL2jAVoQ4bI1D5kx6PdWkDdX-t-_enoChfKCAQJneg&amp;rkey=CAESMDl_tz3m7QgXiAGubAX0HANmwBYRm4FWKSQmhq9tNNrB5OLsUIR9rlsCL5dUTgeORg,file_size=1388435][CQ:at,qq=1306852254] 今天已经获取2次，本次消耗10点数，剩余5060点数。
+
+ref_id: 01291962
+[2025-12-13 23:55:25,210.210] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[1306852254] 说：[CQ:at,qq=3889001382] /sign
+[2025-12-13 23:55:28,320.320] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889001382] 说：[CQ:markdown,content=&#91;&#93;(%7B%22version%22%3A2%7D)
+&#91;@TJ桑&#93;(mqqapi://markdown/mention?at_type=1&amp;at_tinyid=1306852254)### 签到成功！您已经连续签到 1 天，本次签到获得点数：15，剩余点数：5055***> 昵称：TJ称号：无权限等级：User签到时间：2025-12-13 23:55:26***常用指令菜单][CQ:at,qq=1306852254] @TJ桑 ### 签到成功！您已经连续签到 1 天，本次签到获得点数：15，剩余点数：5055
+
+
+> 昵称：TJ
+称号：无
+权限等级：User
+签到时间：2025-12-13 23:55:26
+
+
+常用指令菜单
+[2025-12-13 23:55:28,416.416] INFO     [MainThread|MainProcess] AlivePlugin (logger.py:info:129) | 群[206750749] 用户[3889001382] 说：[CQ:at,qq=1306852254] 处理请求时发生了一个错误，请稍后再试。

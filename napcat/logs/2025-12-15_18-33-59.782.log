@@ -1,0 +1,15 @@
+12-15 18:33:59 [info] [FFmpeg] 检查 Native Addon 可用性...
+12-15 18:33:59 [info] [FFmpeg] ✓ 使用 Native Addon 适配器
+12-15 18:33:59 [info] [StdOut] 已重定向到命名管道: \\.\pipe\NapCat_23268
+12-15 18:33:59 [info] [PacketHandler] 加载成功
+12-15 18:33:59 [info] [PacketHandler] 初始化成功
+12-15 18:33:59 [info] [NapCat] [Core] NapCat.Core Version: 4.9.81
+12-15 18:34:00 [info] [NapCat] [WebUi] WebUi Token: JSV#4h}$IwR>y0D|
+12-15 18:34:00 [info] [NapCat] [WebUi] WebUi User Panel Url: http://127.0.0.1:6099/webui?token=JSV#4h}$IwR>y0D|
+12-15 18:34:00 [info] [NapCat] [WebUi] WebUi User Panel Url: http://0.0.0.0:6099/webui?token=JSV#4h}$IwR>y0D|
+12-15 18:34:00 [info] 等待网络连接...
+12-15 18:34:01 [info] 网络已连接
+12-15 18:34:01 [info] 正在快速登录  1286149997
+12-15 18:34:03 [debug] 本账号数据/缓存目录： C:\Users\HISORA\Documents\Tencent Files\NapCat\data
+12-15 18:34:03 [debug] [Core] [Config] 配置文件D:\SoraBot\ncatbot\napcat\config\napcat_1286149997.json加载 {"fileLog":false,"consoleLog":true,"fileLogLevel":"debug","consoleLogLevel":"info","packetBackend":"auto","packetServer":"","o3HookMode":1}
+12-15 18:34:03 [info] [Core] [Packet] 使用 NativePacketClient 作为后端

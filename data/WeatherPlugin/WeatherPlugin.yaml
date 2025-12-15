@@ -1,0 +1,14 @@
+api_host: ng76x8yu9q.re.qweatherapi.com
+jwt_token: eyJhbGciOiJFZERTQSIsImtpZCI6IlQ2QjhFMlRSUTIiLCJ0eXAiOiJKV1QifQ.eyJpYXQiOjE3NjU3Mjg3OTQsImV4cCI6MTc2NTcyOTcyNCwic3ViIjoiNEtLUTdUMkJHQSJ9.rA7jiKnfn4NzHNp7JPhQ27MwEeLFDHYZm13dN3Ns5rnkAFI1D38MEHSs5B4divSkYysAiyni-TR5nWgxjH3RBg
+cities:
+- 广州
+- 番禺
+- 天河
+- 信宜
+broadcast_time: 07:00
+cost_per_query: '5'
+csv_filename: China-City-List-latest.csv
+enabled_broadcast_groups:
+- 318083168
+- 163620041
+- 206750749

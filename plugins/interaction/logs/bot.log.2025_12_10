@@ -1,0 +1,4 @@
+[2025-12-10 03:09:19,519.519] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 配置文件未找到
+[2025-12-10 03:09:19,520.520] ERROR    [MainThread|MainProcess] Config (logger.py:error:134) | 加载配置失败: [setting] 配置文件不存在！
+[2025-12-10 03:12:11,930.930] WARNING  [MainThread|MainProcess] Config (logger.py:warning:139) | 配置文件未找到
+[2025-12-10 03:12:11,930.930] ERROR    [MainThread|MainProcess] Config (logger.py:error:134) | 加载配置失败: [setting] 配置文件不存在！
